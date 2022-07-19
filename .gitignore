@@ -5,10 +5,12 @@ logs/
 downloads/
 mods/
 saves/
-kubejs/
 !kubejs/server_scripts/
 !kubejs/startup_scripts/
+kubejs/
 resourcepacks/
+overrides/
+local/
 
 ## Ignored Files
 .DS_Store
