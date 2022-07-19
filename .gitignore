@@ -1,25 +1,12 @@
-.mixin.out/**
-crash-reports/**
-logs/**
-mods/**
-natives/**
-paintings/**
-palettes/**
-local/**
-patchouli_books/**
-resourcepacks/**
-saves/**
-schematics/**
-screenshots/**
-themes/**
-config.json
-hotbar.nbt
-knownkeys.txt
-optionsof.txt
-optionsshaders.txt
-patchouli_data.json
-reauth.toml
-servers.dat
-servers.dat_old
-usercache.json
-usernamecache.json
+## Ignored Folders
+.mixin.out/
+crash-reports/
+logs/
+downloads/
+mods/
+saves/
+
+## Ignored Files
+.DS_Store
+.curseclient
+minecraftinstance.json

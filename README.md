@@ -23,6 +23,7 @@ TO BE CREATED
  - (Client & Server)[Chisel and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
  - (Client & Server)[Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
  - (Client & Server)[Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+ - (Client & Server)[Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
  - (Client)[Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
  - (Server)[Prometheus Exporter](https://github.com/cpburnz/minecraft-prometheus-exporter)
  - (Server)[BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
