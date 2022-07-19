@@ -11,8 +11,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Create Together",
-  "version": "",
-  "author": "",
+  "version": "%MODPACK_VERSION%",
+  "author": "Multiplayer.co.at",
   "files": [
     {
       "projectID": 429371,
