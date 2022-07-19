@@ -28,9 +28,9 @@ jobs:
           output-path: ./modpack-server.zip
       - name: Generate Changelog
         run: |
-          changelog.md <<< "$(cat <<EOT
-            $(git log --pretty=format:"%s" | sed 's/^/  - /')
-          EOT)"
+          cat >> changelog.md << EOF
+            $(./scripts/generate-changelog.sh)
+          EOF
       - name: Read Changelog
         id: read_changelog
         uses: juliangruber/read-file-action@v1
