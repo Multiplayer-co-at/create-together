@@ -28,6 +28,8 @@ jobs:
           project-id: '521527'
           modpack-path: ./modpack.zip
           output-path: ./modpack-server.zip
+          changelog: ${{ steps.read_changelog.outputs.content }}
+          changelog-format: 'markdown'
           game-version: '1.18.2'
           display-name: 'Automate. ${{ steps.get_release.outputs.tag_name }}'
           server-display-name: 'Automate. Server ${{ steps.get_release.outputs.tag_name }}'
