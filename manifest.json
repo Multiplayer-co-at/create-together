@@ -11,8 +11,79 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Create Together",
-  "version": "v0.0.1",
+  "version": "",
   "author": "",
-  "files": [],
+  "files": [
+    {
+      "projectID": 508933,
+      "fileID": 3863541,
+      "required": true
+    },
+    {
+      "projectID": 223852,
+      "fileID": 3807626,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 3855244,
+      "required": true
+    },
+    {
+      "projectID": 231095,
+      "fileID": 3873584,
+      "required": true
+    },
+    {
+      "projectID": 558998,
+      "fileID": 3736072,
+      "required": true
+    },
+    {
+      "projectID": 438332,
+      "fileID": 3862966,
+      "required": true
+    },
+    {
+      "projectID": 416294,
+      "fileID": 3882419,
+      "required": true
+    },
+    {
+      "projectID": 429371,
+      "fileID": 3815884,
+      "required": true
+    },
+    {
+      "projectID": 238086,
+      "fileID": 3880089,
+      "required": true
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3871082,
+      "required": true
+    },
+    {
+      "projectID": 454372,
+      "fileID": 3863129,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 3872145,
+      "required": true
+    },
+    {
+      "projectID": 282001,
+      "fileID": 3845705,
+      "required": true
+    },
+    {
+      "projectID": 513688,
+      "fileID": 3696607,
+      "required": true
+    }
+  ],
   "overrides": "overrides"
 }
