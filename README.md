@@ -13,6 +13,12 @@ TO BE CREATED
 
 
 ## Included mods
+ - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+ - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
+ - [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+ - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)
+ - [Chisel and Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+ - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
  - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
  - [Prometheus Exporter](https://github.com/cpburnz/minecraft-prometheus-exporter)
  - [BlueMap](https://github.com/BlueMap-Minecraft/BlueMap)
@@ -21,7 +27,9 @@ TO BE CREATED
  - [FTB Utilities](https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge)
  - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
  - [FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)
-
+ - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino)
+ - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+ - [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)
 
  ## Licenses
  - ...
