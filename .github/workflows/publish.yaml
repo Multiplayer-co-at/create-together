@@ -80,3 +80,11 @@ jobs:
       #     channel-id: '817727363781230592'
       #     version: ${{ steps.get_release.outputs.tag_name }}
       #     changelog-path: ./changelog.md
+      - uses: actions/github-script@v4
+        if: ${{ failure() }}
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const { owner, repo } = context.repo
+            const { data: { id } } = await github.repos.getLatestRelease({ owner, repo })
+            await github.repos.deleteRelease({ owner, repo, release_id: id })
