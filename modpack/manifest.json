@@ -1,0 +1,340 @@
+{
+  "minecraft": {
+    "version": "1.18.2",
+    "modLoaders": [
+      {
+        "id": "forge-40.1.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "overrides": "overrides",
+  "manifestVersion": 1,
+  "version": "1.0.0",
+  "author": "Multiplayer.co.at",
+  "name": "Automate",
+  "files": [
+    {
+      "projectID": 223852,
+      "fileID": 3807626,
+      "required": true,
+      "__meta": {
+        "name": "Storage Drawers"
+      }
+    },
+    {
+      "projectID": 231095,
+      "fileID": 3873584,
+      "required": true,
+      "__meta": {
+        "name": "Chisels & Bits - For Forge"
+      }
+    },
+    {
+      "projectID": 238086,
+      "fileID": 3880089,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS",
+        "dependencies": [
+          419699,
+          416294
+        ]
+      }
+    },
+    {
+      "projectID": 241160,
+      "fileID": 3549513,
+      "required": true,
+      "__meta": {
+        "name": "NetherPortalFix",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 245755,
+      "fileID": 3830849,
+      "required": true,
+      "__meta": {
+        "name": "Waystones",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3885264,
+      "required": true,
+      "__meta": {
+        "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 282001,
+      "fileID": 3845705,
+      "required": true,
+      "__meta": {
+        "name": "CC: Tweaked"
+      }
+    },
+    {
+      "projectID": 314905,
+      "fileID": 3802692,
+      "required": true,
+      "__meta": {
+        "name": "FTB Ranks (Forge)",
+        "dependencies": [
+          419699,
+          404465
+        ]
+      }
+    },
+    {
+      "projectID": 314906,
+      "fileID": 3824539,
+      "required": true,
+      "__meta": {
+        "name": "FTB Chunks (Forge)",
+        "dependencies": [
+          404465,
+          419699,
+          404468
+        ]
+      }
+    },
+    {
+      "projectID": 328085,
+      "fileID": 3872145,
+      "required": true,
+      "__meta": {
+        "name": "Create",
+        "dependencies": [
+          486392
+        ]
+      }
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3782776,
+      "required": true,
+      "__meta": {
+        "name": "Cloth Config API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 351264,
+      "fileID": 3829616,
+      "required": true,
+      "__meta": {
+        "name": "Kotlin for Forge",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 361579,
+      "fileID": 3824951,
+      "required": true,
+      "__meta": {
+        "name": "spark"
+      }
+    },
+    {
+      "projectID": 371813,
+      "fileID": 3808085,
+      "required": true,
+      "__meta": {
+        "name": "Crash Utilities"
+      }
+    },
+    {
+      "projectID": 401648,
+      "fileID": 3798367,
+      "required": true,
+      "__meta": {
+        "name": "BetterF3",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 404465,
+      "fileID": 3822758,
+      "required": true,
+      "__meta": {
+        "name": "FTB Library (Forge)",
+        "explicit": false,
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 404468,
+      "fileID": 3725501,
+      "required": true,
+      "__meta": {
+        "name": "FTB Teams (Forge)",
+        "explicit": false,
+        "dependencies": [
+          404465,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 410811,
+      "fileID": 3773058,
+      "required": true,
+      "__meta": {
+        "name": "FTB Essentials (Forge)",
+        "dependencies": [
+          404465
+        ]
+      }
+    },
+    {
+      "projectID": 416089,
+      "fileID": 3878168,
+      "required": true,
+      "__meta": {
+        "name": "Simple Voice Chat"
+      }
+    },
+    {
+      "projectID": 416294,
+      "fileID": 3884669,
+      "required": true,
+      "__meta": {
+        "name": "Rhino",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 419699,
+      "fileID": 3855244,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (Fabric/Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 429371,
+      "fileID": 3815884,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS Create",
+        "dependencies": [
+          238086,
+          328085
+        ]
+      }
+    },
+    {
+      "projectID": 438332,
+      "fileID": 3862966,
+      "required": true,
+      "__meta": {
+        "name": "SuperMartijn642's Config Lib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 454372,
+      "fileID": 3863129,
+      "required": true,
+      "__meta": {
+        "name": "SuperMartijn642's Core Lib",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3871082,
+      "required": true,
+      "__meta": {
+        "name": "Flywheel",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 508933,
+      "fileID": 3863541,
+      "required": true,
+      "__meta": {
+        "name": "Distant Horizons: A Level of Detail mod"
+      }
+    },
+    {
+      "projectID": 509575,
+      "fileID": 3745494,
+      "required": true,
+      "__meta": {
+        "name": "Observable",
+        "dependencies": [
+          351264,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 513688,
+      "fileID": 3669954,
+      "required": true,
+      "__meta": {
+        "name": "Terralith"
+      }
+    },
+    {
+      "projectID": 531761,
+      "fileID": 3830790,
+      "required": true,
+      "__meta": {
+        "name": "Balm (Forge Edition)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 549394,
+      "fileID": 3819215,
+      "required": true,
+      "__meta": {
+        "name": "Krypton Reforged"
+      }
+    },
+    {
+      "projectID": 551894,
+      "fileID": 3846597,
+      "required": true,
+      "__meta": {
+        "name": "Better Compatibility Checker"
+      }
+    },
+    {
+      "projectID": 558998,
+      "fileID": 3736072,
+      "required": true,
+      "__meta": {
+        "name": "Re-chiseled",
+        "dependencies": [
+          454372,
+          438332
+        ]
+      }
+    },
+    {
+      "projectID": 570017,
+      "fileID": 3707226,
+      "required": true,
+      "__meta": {
+        "name": "Radium Reforged"
+      }
+    }
+  ]
+}

@@ -1,20 +1,12 @@
-## Ignored Folders
-.mixin.out/
-crash-reports/
-logs/
-downloads/
-mods/
-saves/
-!kubejs/server_scripts/
-!kubejs/startup_scripts/
-kubejs/
-resourcepacks/
-!override/resourcepacks/
-local/
-
-## Ignored Files
-.DS_Store
-.curseclient
+### Curseforge & Minecraft
 minecraftinstance.json
-usercache.json
-usernamecache.json
+
+### PAX
+pax
+pax.exe
+libssl*.dll
+libcrypto*.dll
+cacert.pem
+
+### Modpack
+.out/

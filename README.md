@@ -30,7 +30,6 @@ TO BE CREATED
  - (Client & Server)[Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
  - (Server)[FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
  - (Server)[FTB Ranks](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge)
- - (Server)[FTB Utilities](https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge)
  - (Client & Server)[FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
  - (Server)[FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)
  - (Client & Server)[Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino)
