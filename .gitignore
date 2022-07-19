@@ -9,7 +9,7 @@ saves/
 !kubejs/startup_scripts/
 kubejs/
 resourcepacks/
-overrides/
+!override/resourcepacks/
 local/
 
 ## Ignored Files
