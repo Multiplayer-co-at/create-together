@@ -5,8 +5,14 @@ logs/
 downloads/
 mods/
 saves/
+kubejs/
+!kubejs/server_scripts/
+!kubejs/startup_scripts/
+resourcepacks/
 
 ## Ignored Files
 .DS_Store
 .curseclient
 minecraftinstance.json
+usercache.json
+usernamecache.json

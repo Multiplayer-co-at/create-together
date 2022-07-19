@@ -1,6 +1,6 @@
 <center>
     <h1>Create Together</h1>
-    <h3>Aim for the moon! even if you miss, you'll land among the starts.</h3>
+    <h3>Aim for the moon! even if you miss, you'll land among the stars.</h3>
     <img src=".github/assets/pack-banner.png" />
 </center>
 
