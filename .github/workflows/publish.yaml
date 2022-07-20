@@ -81,7 +81,7 @@ jobs:
           name: clientpack
           path: .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
       - name: Build serverpack
-        uses: Multiplayer-co-at/cursforge-modpack-generator
+        uses: Multiplayer-co-at/cursforge-modpack-generator@main
         with:
           curseforge-api-token: ${{ secrets.CURSEFORGE_API_TOKEN }}
           clientpack: .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
