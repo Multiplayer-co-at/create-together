@@ -4,7 +4,7 @@ on:
   create:
     releases:
       tags:
-        - *
+        - '*'
 
 env:
   PROJECT_ID: "521527"
