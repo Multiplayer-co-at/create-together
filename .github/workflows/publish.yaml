@@ -1,9 +1,10 @@
 name: main
 
 on:
-  push:
-    tags:
-      - '*'
+  create:
+    releases:
+      tags:
+        - *
 
 env:
   PROJECT_ID: "521527"
