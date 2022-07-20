@@ -3,7 +3,7 @@
     "version": "1.18.2",
     "modLoaders": [
       {
-        "id": "forge-40.1.0",
+        "id": "forge-40.1.14",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "1.0.0",
+  "version": "",
   "author": "Multiplayer.co.at",
   "name": "Automate",
   "files": [
@@ -29,6 +29,14 @@
       "required": true,
       "__meta": {
         "name": "Chisels & Bits - For Forge"
+      }
+    },
+    {
+      "projectID": 233019,
+      "fileID": 3798941,
+      "required": true,
+      "__meta": {
+        "name": "AI Improvements"
       }
     },
     {
@@ -67,7 +75,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3885264,
+      "fileID": 3886101,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -122,8 +130,7 @@
       "fileID": 3782776,
       "required": true,
       "__meta": {
-        "name": "Cloth Config API (Fabric/Forge)",
-        "explicit": false
+        "name": "Cloth Config API (Fabric/Forge)"
       }
     },
     {
@@ -131,8 +138,7 @@
       "fileID": 3829616,
       "required": true,
       "__meta": {
-        "name": "Kotlin for Forge",
-        "explicit": false
+        "name": "Kotlin for Forge"
       }
     },
     {
@@ -168,7 +174,6 @@
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
-        "explicit": false,
         "dependencies": [
           419699
         ]
@@ -180,7 +185,6 @@
       "required": true,
       "__meta": {
         "name": "FTB Teams (Forge)",
-        "explicit": false,
         "dependencies": [
           404465,
           419699
@@ -211,8 +215,7 @@
       "fileID": 3884669,
       "required": true,
       "__meta": {
-        "name": "Rhino",
-        "explicit": false
+        "name": "Rhino"
       }
     },
     {
@@ -220,8 +223,7 @@
       "fileID": 3855244,
       "required": true,
       "__meta": {
-        "name": "Architectury API (Fabric/Forge)",
-        "explicit": false
+        "name": "Architectury API (Fabric/Forge)"
       }
     },
     {
@@ -241,8 +243,7 @@
       "fileID": 3862966,
       "required": true,
       "__meta": {
-        "name": "SuperMartijn642's Config Lib",
-        "explicit": false
+        "name": "SuperMartijn642's Config Lib"
       }
     },
     {
@@ -250,8 +251,7 @@
       "fileID": 3863129,
       "required": true,
       "__meta": {
-        "name": "SuperMartijn642's Core Lib",
-        "explicit": false
+        "name": "SuperMartijn642's Core Lib"
       }
     },
     {
@@ -259,8 +259,7 @@
       "fileID": 3871082,
       "required": true,
       "__meta": {
-        "name": "Flywheel",
-        "explicit": false
+        "name": "Flywheel"
       }
     },
     {
@@ -296,8 +295,7 @@
       "fileID": 3830790,
       "required": true,
       "__meta": {
-        "name": "Balm (Forge Edition)",
-        "explicit": false
+        "name": "Balm (Forge Edition)"
       }
     },
     {

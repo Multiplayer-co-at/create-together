@@ -1,4 +1,15 @@
+### IMPORTANT
+!overrides/
+
 ### Curseforge & Minecraft
+.curseclient
+config/
+defaultconfigs/
+logs/
+mods/
+resourcepacks/
+saves/
+downloads/
 minecraftinstance.json
 
 ### PAX
