@@ -139,11 +139,11 @@ jobs:
       - name: Create release
         uses: henkelmax/upload-curseforge-modpack-action@v1.0.0
         with:
-          token: ${{ secrets.CURSEFORGE_RELEASE_TOKEN }}
-          project_id: '521527'
+          api-token: ${{ secrets.CURSEFORGE_RELEASE_TOKEN }}
+          project-id: '521527'
           modpack-path: ${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-${{ needs.modpack-info.outputs.tag }}.zip
           modpack-server-path: ${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-${{ needs.modpack-info.outputs.tag }}-server.zip
-          changelog: "${{ needs.changelog.outputs.changelog }}"
+          changelog: ${{ needs.changelog.outputs.changelog }}
           changelog-format: 'markdown'
-          game-versions: "${{ needs.modpack-info.outputs.version }}"
+          game-versions: ${{ needs.modpack-info.outputs.version }}
           release_type: ${{ steps.release-type.outputs.type }}
