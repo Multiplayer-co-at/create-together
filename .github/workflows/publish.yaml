@@ -145,5 +145,5 @@ jobs:
           modpack-server-path: ${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-${{ needs.modpack-info.outputs.tag }}-server.zip
           changelog: ${{ needs.changelog.outputs.changelog }}
           changelog-format: 'markdown'
-          game-versions: ${{ needs.modpack-info.outputs.version }}
-          release_type: ${{ steps.release-type.outputs.type }}
+          game-version: ${{ needs.modpack-info.outputs.version }}
+          release-type: ${{ steps.release-type.outputs.type }}
