@@ -16,6 +16,26 @@
   "name": "CreateTogether",
   "files": [
     {
+      "projectID": 74072,
+      "fileID": 3829979,
+      "required": true,
+      "__meta": {
+        "name": "Tinkers Construct",
+        "dependencies": [
+          74924
+        ]
+      }
+    },
+    {
+      "projectID": 74924,
+      "fileID": 3829975,
+      "required": true,
+      "__meta": {
+        "name": "Mantle",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 223852,
       "fileID": 3807626,
       "required": true,
@@ -63,14 +83,20 @@
       }
     },
     {
-      "projectID": 245755,
-      "fileID": 3830849,
+      "projectID": 244844,
+      "fileID": 3864189,
       "required": true,
       "__meta": {
-        "name": "Waystones",
-        "dependencies": [
-          531761
-        ]
+        "name": "ForgeEndertech",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 246939,
+      "fileID": 3699221,
+      "required": true,
+      "__meta": {
+        "name": "Water Strainer"
       }
     },
     {
@@ -82,11 +108,70 @@
       }
     },
     {
+      "projectID": 272515,
+      "fileID": 3848850,
+      "required": true,
+      "__meta": {
+        "name": "Better Advancements"
+      }
+    },
+    {
+      "projectID": 276951,
+      "fileID": 3682307,
+      "required": true,
+      "__meta": {
+        "name": "Comforts (Forge)"
+      }
+    },
+    {
+      "projectID": 277616,
+      "fileID": 3571539,
+      "required": true,
+      "__meta": {
+        "name": "Spice of Life: Carrot Edition"
+      }
+    },
+    {
       "projectID": 282001,
       "fileID": 3845705,
       "required": true,
       "__meta": {
         "name": "CC: Tweaked"
+      }
+    },
+    {
+      "projectID": 291874,
+      "fileID": 3804257,
+      "required": true,
+      "__meta": {
+        "name": "Serene Seasons"
+      }
+    },
+    {
+      "projectID": 296686,
+      "fileID": 3773568,
+      "required": true,
+      "__meta": {
+        "name": "Gauges and Switches"
+      }
+    },
+    {
+      "projectID": 297680,
+      "fileID": 3823610,
+      "required": true,
+      "__meta": {
+        "name": "Additional Structures"
+      }
+    },
+    {
+      "projectID": 303557,
+      "fileID": 3680864,
+      "required": true,
+      "__meta": {
+        "name": "Better Animals Plus",
+        "dependencies": [
+          419699
+        ]
       }
     },
     {
@@ -115,6 +200,17 @@
       }
     },
     {
+      "projectID": 318833,
+      "fileID": 3881262,
+      "required": true,
+      "__meta": {
+        "name": "Large Ore Deposits",
+        "dependencies": [
+          244844
+        ]
+      }
+    },
+    {
       "projectID": 328085,
       "fileID": 3872145,
       "required": true,
@@ -123,6 +219,26 @@
         "dependencies": [
           486392
         ]
+      }
+    },
+    {
+      "projectID": 342097,
+      "fileID": 3669324,
+      "required": true,
+      "__meta": {
+        "name": "Nether Portal Spread (Forge)",
+        "dependencies": [
+          342584
+        ]
+      }
+    },
+    {
+      "projectID": 342584,
+      "fileID": 3879491,
+      "required": true,
+      "__meta": {
+        "name": "Collective (Forge)",
+        "explicit": false
       }
     },
     {
@@ -150,11 +266,27 @@
       }
     },
     {
+      "projectID": 362528,
+      "fileID": 3697638,
+      "required": true,
+      "__meta": {
+        "name": "Decorative Blocks"
+      }
+    },
+    {
       "projectID": 371813,
       "fileID": 3808085,
       "required": true,
       "__meta": {
         "name": "Crash Utilities"
+      }
+    },
+    {
+      "projectID": 398521,
+      "fileID": 3834150,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Delight"
       }
     },
     {
@@ -219,6 +351,15 @@
       }
     },
     {
+      "projectID": 421850,
+      "fileID": 3779088,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's API (Forge)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 429371,
       "fileID": 3815884,
       "required": true,
@@ -255,6 +396,28 @@
       }
     },
     {
+      "projectID": 496394,
+      "fileID": 3756127,
+      "required": true,
+      "__meta": {
+        "name": "Nether's Delight",
+        "dependencies": [
+          398521
+        ]
+      }
+    },
+    {
+      "projectID": 504908,
+      "fileID": 3778233,
+      "required": true,
+      "__meta": {
+        "name": "Traveler's Titles (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
       "projectID": 509575,
       "fileID": 3745494,
       "required": true,
@@ -280,6 +443,26 @@
       "required": true,
       "__meta": {
         "name": "Balm (Forge Edition)"
+      }
+    },
+    {
+      "projectID": 544350,
+      "fileID": 3888785,
+      "required": true,
+      "__meta": {
+        "name": "Pollen",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 544352,
+      "fileID": 3889835,
+      "required": true,
+      "__meta": {
+        "name": "Locksmith",
+        "dependencies": [
+          544350
+        ]
       }
     },
     {
