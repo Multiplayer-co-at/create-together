@@ -5,12 +5,10 @@
 </center>
 
 ## Description
-...
+....
 
 ## Additional Links
- - [How to create a cursfore modpack and provide a server pack](https://help.akliz.net/docs/make-a-twitch-launcher-modpack-and-server-pack#provide-a-server-pack-on-curse)
  - [Modpack manager for professionals](https://github.sre.pub/froehlichA/pax)
-
 
 ## Included mods
  - (Client & Server)[Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
