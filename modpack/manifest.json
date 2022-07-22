@@ -299,14 +299,6 @@
       }
     },
     {
-      "projectID": 549394,
-      "fileID": 3819215,
-      "required": true,
-      "__meta": {
-        "name": "Krypton Reforged"
-      }
-    },
-    {
       "projectID": 551894,
       "fileID": 3846597,
       "required": true,
@@ -324,14 +316,6 @@
           454372,
           438332
         ]
-      }
-    },
-    {
-      "projectID": 570017,
-      "fileID": 3707226,
-      "required": true,
-      "__meta": {
-        "name": "Radium Reforged"
       }
     }
   ]
