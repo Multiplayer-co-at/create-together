@@ -16,6 +16,14 @@
   "name": "CreateTogether",
   "files": [
     {
+      "projectID": 60028,
+      "fileID": 3844973,
+      "required": true,
+      "__meta": {
+        "name": "Aquaculture 2"
+      }
+    },
+    {
       "projectID": 74072,
       "fileID": 3829979,
       "required": true,
@@ -41,6 +49,14 @@
       "required": true,
       "__meta": {
         "name": "Storage Drawers"
+      }
+    },
+    {
+      "projectID": 227874,
+      "fileID": 3735509,
+      "required": true,
+      "__meta": {
+        "name": "Dynamic Lights"
       }
     },
     {
@@ -108,11 +124,31 @@
       }
     },
     {
+      "projectID": 254284,
+      "fileID": 3738299,
+      "required": true,
+      "__meta": {
+        "name": "AmbientSounds 5",
+        "dependencies": [
+          257814
+        ]
+      }
+    },
+    {
       "projectID": 256717,
       "fileID": 3886101,
       "required": true,
       "__meta": {
         "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 257814,
+      "fileID": 3834521,
+      "required": true,
+      "__meta": {
+        "name": "CreativeCore",
+        "explicit": false
       }
     },
     {
@@ -230,6 +266,27 @@
       }
     },
     {
+      "projectID": 309858,
+      "fileID": 3829081,
+      "required": true,
+      "__meta": {
+        "name": "Forbidden and Arcanus",
+        "dependencies": [
+          416935,
+          416935
+        ]
+      }
+    },
+    {
+      "projectID": 309927,
+      "fileID": 3841948,
+      "required": true,
+      "__meta": {
+        "name": "Curios API (Forge)",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 314905,
       "fileID": 3802692,
       "required": true,
@@ -282,6 +339,15 @@
         "dependencies": [
           486392
         ]
+      }
+    },
+    {
+      "projectID": 331936,
+      "fileID": 3783096,
+      "required": true,
+      "__meta": {
+        "name": "Citadel",
+        "explicit": false
       }
     },
     {
@@ -422,6 +488,15 @@
       }
     },
     {
+      "projectID": 416935,
+      "fileID": 3886212,
+      "required": true,
+      "__meta": {
+        "name": "Valhelsia Core",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 419699,
       "fileID": 3893735,
       "required": true,
@@ -436,6 +511,17 @@
       "__meta": {
         "name": "YUNG's API (Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 426558,
+      "fileID": 3853078,
+      "required": true,
+      "__meta": {
+        "name": "Alex's Mobs",
+        "dependencies": [
+          331936
+        ]
       }
     },
     {
@@ -456,6 +542,14 @@
       "required": true,
       "__meta": {
         "name": "SuperMartijn642's Config Lib"
+      }
+    },
+    {
+      "projectID": 438447,
+      "fileID": 3785992,
+      "required": true,
+      "__meta": {
+        "name": "Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons"
       }
     },
     {
@@ -505,6 +599,14 @@
       }
     },
     {
+      "projectID": 508849,
+      "fileID": 3645296,
+      "required": true,
+      "__meta": {
+        "name": "Combat Music"
+      }
+    },
+    {
       "projectID": 509575,
       "fileID": 3745494,
       "required": true,
@@ -530,6 +632,14 @@
       "required": true,
       "__meta": {
         "name": "Simple Shops"
+      }
+    },
+    {
+      "projectID": 521932,
+      "fileID": 3797980,
+      "required": true,
+      "__meta": {
+        "name": "Medieval Music[Forge/Fabric]"
       }
     },
     {
@@ -577,6 +687,17 @@
         "dependencies": [
           454372,
           438332
+        ]
+      }
+    },
+    {
+      "projectID": 602199,
+      "fileID": 3752209,
+      "required": true,
+      "__meta": {
+        "name": "Curious Lights",
+        "dependencies": [
+          309927
         ]
       }
     },
