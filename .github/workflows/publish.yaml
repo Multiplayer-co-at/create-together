@@ -70,19 +70,20 @@ jobs:
         run: |
           sudo chmod +x ./pax
           ./pax export
+      - name: Build serverpack
+        uses: Multiplayer-co-at/cursforge-modpack-generator@main
+        with:
+          token: ${{ secrets.CURSEFORGE_API_TOKEN }}
+          clientpack: .out/${{ needs.modpack-info.outputs.projectname }}.zip
       - name: Rename zip
         run: |
           mv .out/${{ needs.modpack-info.outputs.projectname }}.zip .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
+          mv .out/serverpack.zip .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-server.zip
       - name: Upload client zip
         uses: actions/upload-artifact@v2
         with:
           name: clientpack
           path: .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
-      - name: Build serverpack
-        uses: Multiplayer-co-at/cursforge-modpack-generator@main
-        with:
-          token: ${{ secrets.CURSEFORGE_API_TOKEN }}
-          clientpack: .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
       - name: Upload server zip
         uses: actions/upload-artifact@v2
         with:
