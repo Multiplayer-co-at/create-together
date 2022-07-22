@@ -1,0 +1,968 @@
+{
+	novice: {
+		name: "Novice"
+		power: 1
+		condition: "always_active"
+		ftbranks.name_format: "[&3Novice&r] {name} >>"
+		ftbchunks.max_claimed: 0
+		ftbchunks.max_force_loaded: 0
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	apprentice: {
+		name: "Apprentice"
+		power: 2
+		condition: {
+			type: "playtime"
+			time: 1
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Apprentice&r] {name} >>"
+		ftbchunks.max_claimed: 6
+		ftbchunks.max_force_loaded: 0
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	journeyman: {
+		name: "Journeyman"
+		power: 3
+		condition: {
+			type: "playtime"
+			time: 2
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Journeyman&r] {name} >>"
+		ftbchunks.max_claimed: 9
+		ftbchunks.max_force_loaded: 0
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	pathfinder: {
+		name: "Pathfinder"
+		power: 4
+		condition: {
+			type: "playtime"
+			time: 3
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Pathfinder&r] {name} >>"
+		ftbchunks.max_claimed: 12
+		ftbchunks.max_force_loaded: 1
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	squire: {
+		name: "Squire"
+		power: 5
+		condition: {
+			type: "playtime"
+			time: 4
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Squire&r] {name} >>"
+		ftbchunks.max_claimed: 15
+		ftbchunks.max_force_loaded: 1
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	adventurer: {
+		name: "Adventurer"
+		power: 6
+		condition: {
+			type: "playtime"
+			time: 5
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Adventurer&r] {name} >>"
+		ftbchunks.max_claimed: 18
+		ftbchunks.max_force_loaded: 2
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	scout: {
+		name: "Scout"
+		power: 7
+		condition: {
+			type: "playtime"
+			time: 6
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Scout&r] {name} >>"
+		ftbchunks.max_claimed: 21
+		ftbchunks.max_force_loaded: 2
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	guardian: {
+		name: "Guardian"
+		power: 8
+		condition: {
+			type: "playtime"
+			time: 8
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Guardian&r] {name} >>"
+		ftbchunks.max_claimed: 24
+		ftbchunks.max_force_loaded: 3
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	fighter: {
+		name: "Fighter"
+		power: 9
+		condition: {
+			type: "playtime"
+			time: 10
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Fighter&r] {name} >>"
+		ftbchunks.max_claimed: 27
+		ftbchunks.max_force_loaded: 3
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	brawler: {
+		name: "Brawler"
+		power: 10
+		condition: {
+			type: "playtime"
+			time: 12
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Brawler&r] {name} >>"
+		ftbchunks.max_claimed: 30
+		ftbchunks.max_force_loaded: 4
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	scrapper: {
+		name: "Scrapper"
+		power: 11
+		condition: {
+			type: "playtime"
+			time: 14
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Scrapper&r] {name} >>"
+		ftbchunks.max_claimed: 33
+		ftbchunks.max_force_loaded: 4
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	brigand: {
+		name: "Brigand"
+		power: 12
+		condition: {
+			type: "playtime"
+			time: 16
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Brigand&r] {name} >>"
+		ftbchunks.max_claimed: 36
+		ftbchunks.max_force_loaded: 5
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	skirmisher: {
+		name: "Skirmisher"
+		power: 13
+		condition: {
+			type: "playtime"
+			time: 18
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Skirmisher&r] {name} >>"
+		ftbchunks.max_claimed: 39
+		ftbchunks.max_force_loaded: 5
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	battler: {
+		name: "Battler"
+		power: 14
+		condition: {
+			type: "playtime"
+			time: 20
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Battler&r] {name} >>"
+		ftbchunks.max_claimed: 42
+		ftbchunks.max_force_loaded: 6
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	marauder: {
+		name: "Marauder"
+		power: 15
+		condition: {
+			type: "playtime"
+			time: 24
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Marauder&r] {name} >>"
+		ftbchunks.max_claimed: 45
+		ftbchunks.max_force_loaded: 6
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	slayer: {
+		name: "Slayer"
+		power: 16
+		condition: {
+			type: "playtime"
+			time: 28
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Slayer&r] {name} >>"
+		ftbchunks.max_claimed: 48
+		ftbchunks.max_force_loaded: 7
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 0
+		ftbessentials.back.max: 0
+		command.tpa: true
+		command.warp: true
+	}
+	huntsman: {
+		name: "Huntsman"
+		power: 17
+		condition: {
+			type: "playtime"
+			time: 30
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Huntsman&r] {name} >>"
+		ftbchunks.max_claimed: 51
+		ftbchunks.max_force_loaded: 7
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 1
+		ftbessentials.back.max: 1
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	mercenary: {
+		name: "Mercenary"
+		power: 18
+		condition: {
+			type: "playtime"
+			time: 32
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Mercenary&r] {name} >>"
+		ftbchunks.max_claimed: 54
+		ftbchunks.max_force_loaded: 8
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 1
+		ftbessentials.back.max: 1
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	swordsman: {
+		name: "Swordsman"
+		power: 19
+		condition: {
+			type: "playtime"
+			time: 34
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Swordsman&r] {name} >>"
+		ftbchunks.max_claimed: 57
+		ftbchunks.max_force_loaded: 8
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 1
+		ftbessentials.back.max: 1
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	freelancer: {
+		name: "Freelancer"
+		power: 20
+		condition: {
+			type: "playtime"
+			time: 36
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Freelancer&r] {name} >>"
+		ftbchunks.max_claimed: 60
+		ftbchunks.max_force_loaded: 9
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 1
+		ftbessentials.back.max: 1
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	swashbuckler: {
+		name: "Swashbuckler"
+		power: 21
+		condition: {
+			type: "playtime"
+			time: 38
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Swashbuckler&r] {name} >>"
+		ftbchunks.max_claimed: 63
+		ftbchunks.max_force_loaded: 9
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 1
+		ftbessentials.back.max: 1
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	vanquisher: {
+		name: "Vanquisher"
+		power: 22
+		condition: {
+			type: "playtime"
+			time: 40
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Vanquisher&r] {name} >>"
+		ftbchunks.max_claimed: 66
+		ftbchunks.max_force_loaded: 10
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 2
+		ftbessentials.back.max: 2
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	chevalier: {
+		name: "Chevalier"
+		power: 23
+		condition: {
+			type: "playtime"
+			time: 43
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Chevalier&r] {name} >>"
+		ftbchunks.max_claimed: 69
+		ftbchunks.max_force_loaded: 10
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 2
+		ftbessentials.back.max: 2
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	duelist: {
+		name: "Duelist"
+		power: 24
+		condition: {
+			type: "playtime"
+			time: 46
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Duelist&r] {name} >>"
+		ftbchunks.max_claimed: 72
+		ftbchunks.max_force_loaded: 12
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 2
+		ftbessentials.back.max: 2
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	gladiator: {
+		name: "Gladiator"
+		power: 25
+		condition: {
+			type: "playtime"
+			time: 49
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Gladiator&r] {name} >>"
+		ftbchunks.max_claimed: 75
+		ftbchunks.max_force_loaded: 12
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 3
+		ftbessentials.back.max: 3
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	legionnaire: {
+		name: "Legionnaire"
+		power: 26
+		condition: {
+			type: "playtime"
+			time: 52
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Legionnaire&r] {name} >>"
+		ftbchunks.max_claimed: 78
+		ftbchunks.max_force_loaded: 14
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 3
+		ftbessentials.back.max: 3
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	veteran: {
+		name: "Veteran"
+		power: 27
+		condition: {
+			type: "playtime"
+			time: 55
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Veteran&r] {name} >>"
+		ftbchunks.max_claimed: 81
+		ftbchunks.max_force_loaded: 14
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 3
+		ftbessentials.back.max: 3
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	swordmaster: {
+		name: "Swordmaster"
+		power: 28
+		condition: {
+			type: "playtime"
+			time: 58
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Swordmaster&r] {name} >>"
+		ftbchunks.max_claimed: 84
+		ftbchunks.max_force_loaded: 16
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 4
+		ftbessentials.back.max: 4
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	keeper: {
+		name: "Keeper"
+		power: 29
+		condition: {
+			type: "playtime"
+			time: 61
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Keeper&r] {name} >>"
+		ftbchunks.max_claimed: 87
+		ftbchunks.max_force_loaded: 16
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 4
+		ftbessentials.back.max: 4
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	protector: {
+		name: "Protector"
+		power: 30
+		condition: {
+			type: "playtime"
+			time: 64
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Protector&r] {name} >>"
+		ftbchunks.max_claimed: 91
+		ftbchunks.max_force_loaded: 18
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 4
+		ftbessentials.back.max: 4
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	defender: {
+		name: "Defender"
+		power: 31
+		condition: {
+			type: "playtime"
+			time: 67
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Defender&r] {name} >>"
+		ftbchunks.max_claimed: 95
+		ftbchunks.max_force_loaded: 18
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 4
+		ftbessentials.back.max: 4
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	warder: {
+		name: "Warder"
+		power: 32
+		condition: {
+			type: "playtime"
+			time: 70
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Warder&r] {name} >>"
+		ftbchunks.max_claimed: 98
+		ftbchunks.max_force_loaded: 19
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 6
+		ftbessentials.back.max: 6
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	gallant: {
+		name: "Gallant"
+		power: 33
+		condition: {
+			type: "playtime"
+			time: 73
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Gallant&r] {name} >>"
+		ftbchunks.max_claimed: 101
+		ftbchunks.max_force_loaded: 19
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 6
+		ftbessentials.back.max: 6
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	knight: {
+		name: "Knight"
+		power: 34
+		condition: {
+			type: "playtime"
+			time: 76
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Knight&r] {name} >>"
+		ftbchunks.max_claimed: 104
+		ftbchunks.max_force_loaded: 20
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 8
+		ftbessentials.back.max: 8
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	exemplar: {
+		name: "Exemplar"
+		power: 35
+		condition: {
+			type: "playtime"
+			time: 79
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Exemplar&r] {name} >>"
+		ftbchunks.max_claimed: 107
+		ftbchunks.max_force_loaded: 20
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 8
+		ftbessentials.back.max: 8
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	myrmidon: {
+		name: "Myrmidon"
+		power: 36
+		condition: {
+			type: "playtime"
+			time: 82
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Myrmidon&r] {name} >>"
+		ftbchunks.max_claimed: 110
+		ftbchunks.max_force_loaded: 20
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 10
+		ftbessentials.back.max: 10
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	conqueror: {
+		name: "Conqueror"
+		power: 37
+		condition: {
+			type: "playtime"
+			time: 80
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Conqueror&r] {name} >>"
+		ftbchunks.max_claimed: 113
+		ftbchunks.max_force_loaded: 20
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 10
+		ftbessentials.back.max: 10
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	lord: {
+		name: "Lord"
+		power: 38
+		condition: {
+			type: "playtime"
+			time: 88
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&3Lord&r] {name} >>"
+		ftbchunks.max_claimed: 116
+		ftbchunks.max_force_loaded: 25
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 10
+		ftbessentials.back.max: 10
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	paladin: {
+		name: "Paladin"
+		power: 39
+		condition: {
+			type: "playtime"
+			time: 91
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&2Paladin&r] {name} >>"
+		ftbchunks.max_claimed: 119
+		ftbchunks.max_force_loaded: 30
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 10
+		ftbessentials.back.max: 10
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	hero: {
+		name: "Hero"
+		power: 40
+		condition: {
+			type: "playtime"
+			time: 93
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&2Hero&r] {name} >>"
+		ftbchunks.max_claimed: 122
+		ftbchunks.max_force_loaded: 35
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 30
+		ftbessentials.spawn.cooldown: 30
+		ftbessentials.home.cooldown: 30
+		ftbessentials.warp.cooldown: 30
+		ftbessentials.back.cooldown: 30
+		ftbessentials.home.max: 10
+		ftbessentials.back.max: 10
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	champion: {
+		name: "Champion"
+		power: 41
+		condition: {
+			type: "playtime"
+			time: 96
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&2Champion&r] {name} >>"
+		ftbchunks.max_claimed: 125
+		ftbchunks.max_force_loaded: 40
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 20
+		ftbessentials.spawn.cooldown: 20
+		ftbessentials.home.cooldown: 20
+		ftbessentials.warp.cooldown: 20
+		ftbessentials.back.cooldown: 20
+		ftbessentials.home.max: 11
+		ftbessentials.back.max: 11
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	legend: {
+		name: "Legend"
+		power: 42
+		condition: {
+			type: "playtime"
+			time: 100
+			time_unit: "hours"
+		}
+		ftbranks.name_format: "[&2Legend&r] {name} >>"
+		ftbchunks.max_claimed: 128
+		ftbchunks.max_force_loaded: 45
+		ftbessentials.rtp.cooldown: 300
+		ftbessentials.tpa.cooldown: 10
+		ftbessentials.spawn.cooldown: 10
+		ftbessentials.home.cooldown: 10
+		ftbessentials.warp.cooldown: 10
+		ftbessentials.back.cooldown: 10
+		ftbessentials.home.max: 12
+		ftbessentials.back.max: 12
+		command.tpa: true
+		command.warp: true
+		ftbchunks.chunk_load_offline: true
+	}
+	admin: {
+		name: "Admin"
+		power: 10000
+		condition: "op"
+		ftbranks.name_format: "[&4&dAdmin&r] {name} >>"
+		command.ftbranks: true
+		ftbchunks.max_claimed: 10000
+		ftbchunks.max_force_loaded: 5000
+		ftbessentials.rtp.cooldown: 0
+		ftbessentials.tpa.cooldown: 0
+		ftbessentials.warp.cooldown: 0
+		ftbessentials.spawn.cooldown: 0
+		ftbessentials.home.cooldown: 0
+		ftbessentials.back.cooldown: 0
+		ftbessentials.home.max: 5000
+		ftbessentials.back.max: 5000
+		command.warp: true
+		command.tpa: true
+		ftbchunks.chunk_load_offline: true
+	}
+}
