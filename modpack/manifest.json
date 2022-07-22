@@ -116,6 +116,14 @@
       }
     },
     {
+      "projectID": 264353,
+      "fileID": 3881216,
+      "required": true,
+      "__meta": {
+        "name": "SwingThroughGrass"
+      }
+    },
+    {
       "projectID": 272515,
       "fileID": 3848850,
       "required": true,
@@ -148,6 +156,17 @@
       }
     },
     {
+      "projectID": 290659,
+      "fileID": 3550141,
+      "required": true,
+      "__meta": {
+        "name": "Pretty Beaches",
+        "dependencies": [
+          531761
+        ]
+      }
+    },
+    {
       "projectID": 291874,
       "fileID": 3804257,
       "required": true,
@@ -169,6 +188,14 @@
       "required": true,
       "__meta": {
         "name": "Additional Structures"
+      }
+    },
+    {
+      "projectID": 302113,
+      "fileID": 3704104,
+      "required": true,
+      "__meta": {
+        "name": "Effortless Building"
       }
     },
     {
@@ -205,6 +232,14 @@
           419699,
           404468
         ]
+      }
+    },
+    {
+      "projectID": 316582,
+      "fileID": 3829457,
+      "required": true,
+      "__meta": {
+        "name": "Corpse"
       }
     },
     {
@@ -332,6 +367,14 @@
       }
     },
     {
+      "projectID": 404768,
+      "fileID": 3804301,
+      "required": true,
+      "__meta": {
+        "name": "Custom fences and walls"
+      }
+    },
+    {
       "projectID": 410811,
       "fileID": 3773058,
       "required": true,
@@ -340,6 +383,14 @@
         "dependencies": [
           404465
         ]
+      }
+    },
+    {
+      "projectID": 416089,
+      "fileID": 3878168,
+      "required": true,
+      "__meta": {
+        "name": "Simple Voice Chat"
       }
     },
     {
@@ -385,6 +436,14 @@
       "required": true,
       "__meta": {
         "name": "SuperMartijn642's Config Lib"
+      }
+    },
+    {
+      "projectID": 442354,
+      "fileID": 3711717,
+      "required": true,
+      "__meta": {
+        "name": "Not Enough Crashes (Forge)"
       }
     },
     {
@@ -490,6 +549,40 @@
         "dependencies": [
           454372,
           438332
+        ]
+      }
+    },
+    {
+      "projectID": 637529,
+      "fileID": 3876995,
+      "required": true,
+      "__meta": {
+        "name": "Delightful",
+        "dependencies": [
+          398521
+        ]
+      }
+    },
+    {
+      "projectID": 637808,
+      "fileID": 3854764,
+      "required": true,
+      "__meta": {
+        "name": "Brewin' And Chewin'",
+        "dependencies": [
+          398521
+        ]
+      }
+    },
+    {
+      "projectID": 639126,
+      "fileID": 3882141,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS ComputerCraft",
+        "dependencies": [
+          238086,
+          282001
         ]
       }
     }
