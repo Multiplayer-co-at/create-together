@@ -3,7 +3,7 @@
     "version": "1.18.2",
     "modLoaders": [
       {
-        "id": "forge-40.1.68",
+        "id": "forge-40.1.0",
         "primary": true
       }
     ]
@@ -41,7 +41,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3880089,
+      "fileID": 3888614,
       "required": true,
       "__meta": {
         "name": "KubeJS",
@@ -212,7 +212,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3884669,
+      "fileID": 3892335,
       "required": true,
       "__meta": {
         "name": "Rhino"
@@ -220,7 +220,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3855244,
+      "fileID": 3893735,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)"
