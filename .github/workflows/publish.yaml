@@ -77,18 +77,18 @@ jobs:
           clientpack: .out/${{ needs.modpack-info.outputs.projectname }}.zip
       - name: Rename zip
         run: |
-          mv .out/${{ needs.modpack-info.outputs.projectname }}.zip .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
-          mv .out/serverpack.zip .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-server.zip
+          mv .out/${{ needs.modpack-info.outputs.projectname }}.zip .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-${{ needs.modpack-info.outputs.tag }}.zip
+          mv .out/serverpack.zip .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-${{ needs.modpack-info.outputs.tag }}-server.zip
       - name: Upload client zip
         uses: actions/upload-artifact@v2
         with:
           name: clientpack
-          path: .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
+          path: .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-${{ needs.modpack-info.outputs.tag }}.zip
       - name: Upload server zip
         uses: actions/upload-artifact@v2
         with:
           name: serverpack
-          path: .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}-server.zip
+          path: .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-${{ needs.modpack-info.outputs.tag }}-server.zip
 
   release-github:
     runs-on: ubuntu-latest
