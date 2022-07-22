@@ -210,6 +210,26 @@
       }
     },
     {
+      "projectID": 303657,
+      "fileID": 3827373,
+      "required": true,
+      "__meta": {
+        "name": "Kiwi 🥝 (Forge)",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 308663,
+      "fileID": 3865993,
+      "required": true,
+      "__meta": {
+        "name": "Snow! Real Magic! ⛄ (Forge)",
+        "dependencies": [
+          303657
+        ]
+      }
+    },
+    {
       "projectID": 314905,
       "fileID": 3802692,
       "required": true,
@@ -502,6 +522,14 @@
       "required": true,
       "__meta": {
         "name": "Terralith"
+      }
+    },
+    {
+      "projectID": 517272,
+      "fileID": 3806656,
+      "required": true,
+      "__meta": {
+        "name": "Simple Shops"
       }
     },
     {
