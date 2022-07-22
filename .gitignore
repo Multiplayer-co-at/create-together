@@ -3,8 +3,6 @@
 
 ### Curseforge & Minecraft
 .curseclient
-config/
-defaultconfigs/
 logs/
 mods/
 resourcepacks/
@@ -21,3 +19,6 @@ cacert.pem
 
 ### Modpack
 .out/
+
+## VSCODE
+.code-workspace
