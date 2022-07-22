@@ -5,7 +5,7 @@
 </center>
 
 ## Description
-...
+....
 
 ## Additional Links
  - [How to create a cursfore modpack and provide a server pack](https://help.akliz.net/docs/make-a-twitch-launcher-modpack-and-server-pack#provide-a-server-pack-on-curse)
