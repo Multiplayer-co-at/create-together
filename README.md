@@ -8,7 +8,7 @@
 ## Additional Links
  - [Modpack manager for professionals](https://github.sre.pub/froehlichA/pax)
 
-## Included Mods (50)
+## Included Mods (77)
  - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/3798941)
  - [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures/files/3823610)
  - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3853078)
