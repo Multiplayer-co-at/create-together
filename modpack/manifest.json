@@ -118,6 +118,17 @@
       }
     },
     {
+      "projectID": 244830,
+      "fileID": 3864196,
+      "required": true,
+      "__meta": {
+        "name": "Advanced Chimneys",
+        "dependencies": [
+          244844
+        ]
+      }
+    },
+    {
       "projectID": 244844,
       "fileID": 3864189,
       "required": true,
