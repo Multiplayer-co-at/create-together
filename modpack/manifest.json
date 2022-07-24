@@ -96,6 +96,17 @@
       }
     },
     {
+      "projectID": 240630,
+      "fileID": 3831559,
+      "required": true,
+      "__meta": {
+        "name": "Just Enough Resources (JER)",
+        "dependencies": [
+          238222
+        ]
+      }
+    },
+    {
       "projectID": 241160,
       "fileID": 3549513,
       "required": true,
@@ -387,6 +398,14 @@
       }
     },
     {
+      "projectID": 361276,
+      "fileID": 3891801,
+      "required": true,
+      "__meta": {
+        "name": "Lootr (Forge)"
+      }
+    },
+    {
       "projectID": 361579,
       "fileID": 3824951,
       "required": true,
@@ -403,11 +422,49 @@
       }
     },
     {
+      "projectID": 368293,
+      "fileID": 3820310,
+      "required": true,
+      "__meta": {
+        "name": "Repurposed Structures (Forge)",
+        "dependencies": [
+          560323
+        ]
+      }
+    },
+    {
       "projectID": 371813,
       "fileID": 3808085,
       "required": true,
       "__meta": {
         "name": "Crash Utilities"
+      }
+    },
+    {
+      "projectID": 378609,
+      "fileID": 3837387,
+      "required": true,
+      "__meta": {
+        "name": "Tom's Simple Storage Mod"
+      }
+    },
+    {
+      "projectID": 379887,
+      "fileID": 3773491,
+      "required": true,
+      "__meta": {
+        "name": "Passable Foliage 🌳 (Forge)"
+      }
+    },
+    {
+      "projectID": 389665,
+      "fileID": 3855186,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Mineshafts (Forge)",
+        "dependencies": [
+          421850
+        ]
       }
     },
     {
@@ -569,6 +626,36 @@
       }
     },
     {
+      "projectID": 465575,
+      "fileID": 3778231,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Strongholds (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
+      "projectID": 470013,
+      "fileID": 3827909,
+      "required": true,
+      "__meta": {
+        "name": "Better Foliage Renewed"
+      }
+    },
+    {
+      "projectID": 480006,
+      "fileID": 3777937,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Extras (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
       "projectID": 486392,
       "fileID": 3871082,
       "required": true,
@@ -584,6 +671,17 @@
         "name": "Nether's Delight",
         "dependencies": [
           398521
+        ]
+      }
+    },
+    {
+      "projectID": 501590,
+      "fileID": 3760338,
+      "required": true,
+      "__meta": {
+        "name": "Additional Lanterns",
+        "dependencies": [
+          454372
         ]
       }
     },
@@ -607,6 +705,17 @@
       }
     },
     {
+      "projectID": 509285,
+      "fileID": 3866123,
+      "required": true,
+      "__meta": {
+        "name": "Create Deco",
+        "dependencies": [
+          328085
+        ]
+      }
+    },
+    {
       "projectID": 509575,
       "fileID": 3745494,
       "required": true,
@@ -615,6 +724,17 @@
         "dependencies": [
           351264,
           419699
+        ]
+      }
+    },
+    {
+      "projectID": 510089,
+      "fileID": 3777934,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Dungeons (Forge)",
+        "dependencies": [
+          421850
         ]
       }
     },
@@ -651,6 +771,36 @@
       }
     },
     {
+      "projectID": 531834,
+      "fileID": 3806807,
+      "required": true,
+      "__meta": {
+        "name": "Create Confectionery",
+        "dependencies": [
+          328085
+        ]
+      }
+    },
+    {
+      "projectID": 532724,
+      "fileID": 3556734,
+      "required": true,
+      "__meta": {
+        "name": "Magnesium"
+      }
+    },
+    {
+      "projectID": 536660,
+      "fileID": 3777944,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Bridges (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
       "projectID": 544350,
       "fileID": 3888785,
       "required": true,
@@ -671,11 +821,32 @@
       }
     },
     {
+      "projectID": 549394,
+      "fileID": 3819215,
+      "required": true,
+      "__meta": {
+        "name": "Krypton Reforged"
+      }
+    },
+    {
       "projectID": 551894,
       "fileID": 3846597,
       "required": true,
       "__meta": {
         "name": "Better Compatibility Checker"
+      }
+    },
+    {
+      "projectID": 556448,
+      "fileID": 3787817,
+      "required": true,
+      "__meta": {
+        "name": "Alex's Delight",
+        "dependencies": [
+          426558,
+          331936,
+          398521
+        ]
       }
     },
     {
@@ -691,6 +862,23 @@
       }
     },
     {
+      "projectID": 560323,
+      "fileID": 3669114,
+      "required": true,
+      "__meta": {
+        "name": "Feature NBT Deadlock Be Gone",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 596462,
+      "fileID": 3707849,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Dungeons Resource Pack"
+      }
+    },
+    {
       "projectID": 602199,
       "fileID": 3752209,
       "required": true,
@@ -698,6 +886,28 @@
         "name": "Curious Lights",
         "dependencies": [
           309927
+        ]
+      }
+    },
+    {
+      "projectID": 631016,
+      "fileID": 3895967,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Desert Temples (Forge)",
+        "dependencies": [
+          421850
+        ]
+      }
+    },
+    {
+      "projectID": 631401,
+      "fileID": 3855148,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Witch Huts (Forge)",
+        "dependencies": [
+          421850
         ]
       }
     },

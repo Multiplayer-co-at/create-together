@@ -75,7 +75,7 @@ jobs:
         with:
           token: ${{ secrets.CURSEFORGE_API_TOKEN }}
           clientpack: .out/${{ needs.modpack-info.outputs.projectname }}.zip
-          ignored_mods: "401648,508933"
+          ignored_mods: "401648,508933,254284,508849,227874,521932"
       - name: Rename zip
         run: |
           mv .out/${{ needs.modpack-info.outputs.projectname }}.zip .out/${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.version }}-${{ needs.modpack-info.outputs.tag }}.zip
