@@ -848,19 +848,6 @@
       }
     },
     {
-      "projectID": 556448,
-      "fileID": 3787817,
-      "required": true,
-      "__meta": {
-        "name": "Alex's Delight",
-        "dependencies": [
-          426558,
-          331936,
-          398521
-        ]
-      }
-    },
-    {
       "projectID": 558998,
       "fileID": 3736072,
       "required": true,
