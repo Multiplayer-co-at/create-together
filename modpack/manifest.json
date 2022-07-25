@@ -452,6 +452,14 @@
       }
     },
     {
+      "projectID": 376737,
+      "fileID": 3877945,
+      "required": true,
+      "__meta": {
+        "name": "Pretty Pipes"
+      }
+    },
+    {
       "projectID": 378609,
       "fileID": 3837387,
       "required": true,
@@ -465,6 +473,14 @@
       "required": true,
       "__meta": {
         "name": "Passable Foliage 🌳 (Forge)"
+      }
+    },
+    {
+      "projectID": 381597,
+      "fileID": 3855425,
+      "required": true,
+      "__meta": {
+        "name": "Regrowth"
       }
     },
     {
@@ -579,6 +595,17 @@
       "__meta": {
         "name": "YUNG's API (Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 422301,
+      "fileID": 3887950,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Backpacks",
+        "dependencies": [
+          618298
+        ]
       }
     },
     {
@@ -885,6 +912,15 @@
         "dependencies": [
           309927
         ]
+      }
+    },
+    {
+      "projectID": 618298,
+      "fileID": 3887917,
+      "required": true,
+      "__meta": {
+        "name": "Sophisticated Core",
+        "explicit": false
       }
     },
     {
