@@ -52,14 +52,6 @@
       }
     },
     {
-      "projectID": 227874,
-      "fileID": 3735509,
-      "required": true,
-      "__meta": {
-        "name": "Dynamic Lights"
-      }
-    },
-    {
       "projectID": 231095,
       "fileID": 3873584,
       "required": true,
@@ -146,31 +138,11 @@
       }
     },
     {
-      "projectID": 254284,
-      "fileID": 3738299,
-      "required": true,
-      "__meta": {
-        "name": "AmbientSounds 5",
-        "dependencies": [
-          257814
-        ]
-      }
-    },
-    {
       "projectID": 256717,
       "fileID": 3886101,
       "required": true,
       "__meta": {
         "name": "Clumps"
-      }
-    },
-    {
-      "projectID": 257814,
-      "fileID": 3834521,
-      "required": true,
-      "__meta": {
-        "name": "CreativeCore",
-        "explicit": false
       }
     },
     {
@@ -297,15 +269,6 @@
           416935,
           416935
         ]
-      }
-    },
-    {
-      "projectID": 309927,
-      "fileID": 3841948,
-      "required": true,
-      "__meta": {
-        "name": "Curios API (Forge)",
-        "explicit": false
       }
     },
     {
@@ -481,6 +444,15 @@
       "required": true,
       "__meta": {
         "name": "Regrowth"
+      }
+    },
+    {
+      "projectID": 388172,
+      "fileID": 3885208,
+      "required": true,
+      "__meta": {
+        "name": "GeckoLib",
+        "explicit": false
       }
     },
     {
@@ -694,6 +666,14 @@
       }
     },
     {
+      "projectID": 485681,
+      "fileID": 3579662,
+      "required": true,
+      "__meta": {
+        "name": "Chunky (Forge)"
+      }
+    },
+    {
       "projectID": 486392,
       "fileID": 3871082,
       "required": true,
@@ -713,6 +693,14 @@
       }
     },
     {
+      "projectID": 498794,
+      "fileID": 3837131,
+      "required": true,
+      "__meta": {
+        "name": "Iron Chests: Restocked"
+      }
+    },
+    {
       "projectID": 501590,
       "fileID": 3760338,
       "required": true,
@@ -721,25 +709,6 @@
         "dependencies": [
           454372
         ]
-      }
-    },
-    {
-      "projectID": 504908,
-      "fileID": 3778233,
-      "required": true,
-      "__meta": {
-        "name": "Traveler's Titles (Forge)",
-        "dependencies": [
-          421850
-        ]
-      }
-    },
-    {
-      "projectID": 508849,
-      "fileID": 3645296,
-      "required": true,
-      "__meta": {
-        "name": "Combat Music"
       }
     },
     {
@@ -793,14 +762,6 @@
       }
     },
     {
-      "projectID": 521932,
-      "fileID": 3797980,
-      "required": true,
-      "__meta": {
-        "name": "Medieval Music[Forge/Fabric]"
-      }
-    },
-    {
       "projectID": 531761,
       "fileID": 3830790,
       "required": true,
@@ -827,26 +788,6 @@
         "name": "YUNG's Bridges (Forge)",
         "dependencies": [
           421850
-        ]
-      }
-    },
-    {
-      "projectID": 544350,
-      "fileID": 3888785,
-      "required": true,
-      "__meta": {
-        "name": "Pollen",
-        "explicit": false
-      }
-    },
-    {
-      "projectID": 544352,
-      "fileID": 3889835,
-      "required": true,
-      "__meta": {
-        "name": "Locksmith",
-        "dependencies": [
-          544350
         ]
       }
     },
@@ -896,23 +837,23 @@
       }
     },
     {
-      "projectID": 602199,
-      "fileID": 3752209,
-      "required": true,
-      "__meta": {
-        "name": "Curious Lights",
-        "dependencies": [
-          309927
-        ]
-      }
-    },
-    {
       "projectID": 618298,
       "fileID": 3887917,
       "required": true,
       "__meta": {
         "name": "Sophisticated Core",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 627986,
+      "fileID": 3836864,
+      "required": true,
+      "__meta": {
+        "name": "Naturalist",
+        "dependencies": [
+          388172
+        ]
       }
     },
     {
@@ -969,6 +910,14 @@
           238086,
           282001
         ]
+      }
+    },
+    {
+      "projectID": 649959,
+      "fileID": 3898794,
+      "required": true,
+      "__meta": {
+        "name": "Illuminations Forge 🔥"
       }
     }
   ]
