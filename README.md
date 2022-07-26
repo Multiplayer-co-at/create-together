@@ -8,7 +8,7 @@
 ## Additional Links
  - [Modpack manager for professionals](https://github.sre.pub/froehlichA/pax)
 
-## Included Mods (96)
+## Included Mods (94)
  - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/3798941)
  - [Additional Lanterns](https://www.curseforge.com/minecraft/mc-mods/additional-lanterns/files/3760338)
  - [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures/files/3823610)
@@ -20,7 +20,6 @@
  - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/3848850)
  - [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus/files/3680864)
  - [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker/files/3846597)
- - [Better Foliage Renewed](https://www.curseforge.com/minecraft/mc-mods/better-foliage-renewed/files/3827909)
  - [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3/files/3798367)
  - [Brewin' And Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin/files/3854764)
  - [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/files/3845705)
@@ -53,7 +52,6 @@
  - [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech/files/3864189)
  - [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches/files/3773568)
  - [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/3885208)
- - [Illuminations Forge 🔥](https://www.curseforge.com/minecraft/mc-mods/illuminations-forge/files/3898794)
  - [Iron Chests: Restocked](https://www.curseforge.com/minecraft/mc-mods/ironchests/files/3837131)
  - [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei/files/3885885)
  - [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/3831559)
@@ -66,7 +64,6 @@
  - [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits/files/3881262)
  - [Lootr (Forge)](https://www.curseforge.com/minecraft/mc-mods/lootr/files/3891801)
  - [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle/files/3829975)
- - [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist/files/3836864)
  - [Nether Portal Spread (Forge)](https://www.curseforge.com/minecraft/mc-mods/nether-portal-spread/files/3669324)
  - [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight/files/3756127)
  - [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files/3549513)
