@@ -2,6 +2,13 @@
 ### Aim for the moon! even if you miss, you'll land among the stars
 ![Banner](https://github.com/Multiplayer-co-at/create-together/raw/main/.github/assets/pack-banner.png "Banner")
 
+## Public Server
+we are running a public server which you can join with `create-together.multiplayer.co.at`.
+
+We also have a [Live Map](https://discord.multiplayer.co.at) and a [Discord](https://create-together-map.multiplayer.co.at)!
+
+The server is subject to changes based on the Modpack however we are still trying to keep the current world.
+
 ## Description
 ....
 

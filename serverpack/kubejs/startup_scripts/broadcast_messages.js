@@ -13,7 +13,7 @@ function debug(callback) {
 function discord(callback) {
     callback.getData().tell(Text.of([
 			Text.white("Join our Discord! "),
-			Text.gold("Click Here").hover('Open https://discord.gg/GBBg3BPHRx').click('https://discord.gg/GBBg3BPHRx')
+			Text.gold("Click Here").hover('Open https://discord.multiplayer.co.at').click('https://discord.multiplayer.co.at')
 		]))
     callback.reschedule()
 }
