@@ -21,15 +21,15 @@ function discord(callback) {
 function liveMap(callback) {
     callback.getData().tell(Text.of([
 			Text.white("Visit the Live Map! "),
-			Text.gold("Click Here").hover('Open https://create-map.multiplayer.co.at/').click('https://create-map.multiplayer.co.at/')
+			Text.gold("Click Here").hover('Open https://create-together-map.multiplayer.co.at/').click('https://create-together-map.multiplayer.co.at/')
 		]))
     callback.reschedule()
 }
 
 function vote(callback) {
     callback.getData().tell(Text.of([
-			Text.white("Vote for this Server! "),
-			Text.gold("Click Here").hover('Open https://minecraft-server.eu/vote/index/223DC').click('https://minecraft-server.eu/vote/index/223DC')
+			Text.white("Buy a coffee for the Server! "),
+			Text.gold("Click Here").hover('Open https://www.buymeacoffee.com/multiplayercoat').click('https://www.buymeacoffee.com/multiplayercoat')
 		]))
     callback.reschedule()
 }

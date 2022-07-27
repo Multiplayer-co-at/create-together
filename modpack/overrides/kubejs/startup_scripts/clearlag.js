@@ -39,24 +39,32 @@ function clearlag(server, callback) {
   })
   
   const pollution = entityCount / Object.keys(entityChunks).length
-  server.tell([
-    Text.lightPurple('[ClearLag]'),
-    ' Removed ',
-    Math.floor(entityCount),
-    ' items in ',
-    Math.floor(Object.keys(entityChunks).length),
-    ' chunks. pollution level: ',
-    Math.floor(pollution)
-  ]);
   if (pollution >= 100) {
+    server.tell([
+      Text.lightPurple('[ClearLag]'),
+      ' Removed ',
+      Math.floor(entityCount),
+      ' items in ',
+      Math.floor(Object.keys(entityChunks).length),
+      ' chunks. pollution level: ',
+      Math.floor(pollution)
+    ]);
     server.tell([
       Text.lightPurple('[ClearLag]'),
       ' Chunk ',
       mostPollutedChunk,
       ' is most polluted!'
   	]);
-  }  
-  
+  } else {
+    server.tell([
+      Text.lightPurple('[ClearLag]'),
+      ' Removed ',
+      Math.floor(entityCount),
+      ' items in ',
+      Math.floor(Object.keys(entityChunks).length),
+      ' chunks.'
+    ]);
+  }
   callback.reschedule();
 }
 

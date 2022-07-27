@@ -1,6 +1,5 @@
 const bannedItems = {
-  "chickenchunks:chunk_loader": "Chickenchunks Chunk Loader crash the server when you use it",
-  "create:crafting_blueprint": "Create Crafting Blueprint throws a Ticking Entity Error at random Intervals"
+  
 }
 
 function itemCheck (item, event, player) {
