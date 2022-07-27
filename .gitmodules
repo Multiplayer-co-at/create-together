@@ -1,0 +1,6 @@
+[submodule "serveraddons/mods/bluemap"]
+	path = serveraddons/mods/bluemap
+	url = https://github.com/BlueMap-Minecraft/BlueMap
+[submodule "serveraddons/mods/prometheus-exporter"]
+	path = serveraddons/mods/prometheus-exporter
+	url = https://github.com/cpburnz/minecraft-prometheus-exporter
