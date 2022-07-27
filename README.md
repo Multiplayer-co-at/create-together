@@ -1,7 +1,14 @@
-## Create Together
-### Aim for the moon! even if you miss, you'll land among the stars
+# Create Together
+
+Aim for the moon! even if you miss, you'll land among the stars!
+---
 ![Banner](https://github.com/Multiplayer-co-at/create-together/raw/main/.github/assets/pack-banner.png "Banner")
 
+---
+## Description
+....
+
+---
 ## Public Server
 we are running a public server which you can join with `create-together.multiplayer.co.at`.
 
@@ -9,12 +16,11 @@ We also have a [Live Map](https://discord.multiplayer.co.at) and a [Discord](htt
 
 The server is subject to changes based on the Modpack however we are still trying to keep the current world.
 
-## Description
-....
-
+---
 ## Additional Links
  - [Modpack manager for professionals](https://github.sre.pub/froehlichA/pax)
 
+---
 ## Included Mods (94)
  - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/3798941)
  - [Additional Lanterns](https://www.curseforge.com/minecraft/mc-mods/additional-lanterns/files/3760338)
@@ -110,8 +116,8 @@ The server is subject to changes based on the Modpack however we are still tryin
  - [YUNG's Extras (Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-extras/files/3777937)
  - [spark](https://www.curseforge.com/minecraft/mc-mods/spark/files/3824951)
 
-
- ## Licenses
+---
+## Licenses
  - ...
  - ...
  - ...
