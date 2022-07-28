@@ -186,6 +186,20 @@
       }
     },
     {
+      "projectID": 289412,
+      "fileID": 3725771,
+      "required": true,
+      "__meta": {
+        "name": "FTB Quests (Forge)",
+        "dependencies": [
+          309674,
+          419699,
+          404468,
+          404465
+        ]
+      }
+    },
+    {
       "projectID": 290659,
       "fileID": 3550141,
       "required": true,
@@ -245,6 +259,18 @@
         "name": "Snow! Real Magic! ⛄ (Forge)",
         "dependencies": [
           303657
+        ]
+      }
+    },
+    {
+      "projectID": 309674,
+      "fileID": 3875094,
+      "required": true,
+      "__meta": {
+        "name": "Item Filters",
+        "explicit": false,
+        "dependencies": [
+          419699
         ]
       }
     },
@@ -798,6 +824,18 @@
       "__meta": {
         "name": "Feature NBT Deadlock Be Gone",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 580129,
+      "fileID": 3810666,
+      "required": true,
+      "__meta": {
+        "name": "Quests Additions (Forge)",
+        "dependencies": [
+          289412,
+          419699
+        ]
       }
     },
     {
