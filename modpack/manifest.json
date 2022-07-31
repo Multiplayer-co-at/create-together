@@ -709,6 +709,14 @@
       }
     },
     {
+      "projectID": 446253,
+      "fileID": 3804089,
+      "required": true,
+      "__meta": {
+        "name": "Better Biome Blend"
+      }
+    },
+    {
       "projectID": 448233,
       "fileID": 3743929,
       "required": true,
@@ -977,6 +985,14 @@
       "__meta": {
         "name": "Feature NBT Deadlock Be Gone",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 570017,
+      "fileID": 3707226,
+      "required": true,
+      "__meta": {
+        "name": "Radium Reforged"
       }
     },
     {
