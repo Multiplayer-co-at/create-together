@@ -162,6 +162,14 @@
       }
     },
     {
+      "projectID": 273279,
+      "fileID": 3584113,
+      "required": true,
+      "__meta": {
+        "name": "AntiGhost"
+      }
+    },
+    {
       "projectID": 276951,
       "fileID": 3682307,
       "required": true,
@@ -452,17 +460,6 @@
       }
     },
     {
-      "projectID": 367706,
-      "fileID": 3891585,
-      "required": true,
-      "__meta": {
-        "name": "FancyMenu [Forge]",
-        "dependencies": [
-          410295
-        ]
-      }
-    },
-    {
       "projectID": 368293,
       "fileID": 3820310,
       "required": true,
@@ -593,15 +590,6 @@
       }
     },
     {
-      "projectID": 410295,
-      "fileID": 3888156,
-      "required": true,
-      "__meta": {
-        "name": "Konkrete [Forge]",
-        "explicit": false
-      }
-    },
-    {
       "projectID": 410811,
       "fileID": 3773058,
       "required": true,
@@ -677,6 +665,14 @@
       }
     },
     {
+      "projectID": 429235,
+      "fileID": 3767288,
+      "required": true,
+      "__meta": {
+        "name": "FerriteCore (Forge)"
+      }
+    },
+    {
       "projectID": 429371,
       "fileID": 3815884,
       "required": true,
@@ -710,6 +706,14 @@
       "required": true,
       "__meta": {
         "name": "Not Enough Crashes (Forge)"
+      }
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3743929,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling Fabric/Forge"
       }
     },
     {
@@ -808,6 +812,14 @@
       }
     },
     {
+      "projectID": 508933,
+      "fileID": 3863541,
+      "required": true,
+      "__meta": {
+        "name": "Distant Horizons: A Level of Detail mod"
+      }
+    },
+    {
       "projectID": 509285,
       "fileID": 3866123,
       "required": true,
@@ -858,6 +870,14 @@
       }
     },
     {
+      "projectID": 526854,
+      "fileID": 3706539,
+      "required": true,
+      "__meta": {
+        "name": "Starlight (Forge)"
+      }
+    },
+    {
       "projectID": 531761,
       "fileID": 3830790,
       "required": true,
@@ -877,6 +897,14 @@
       }
     },
     {
+      "projectID": 532724,
+      "fileID": 3556734,
+      "required": true,
+      "__meta": {
+        "name": "Magnesium"
+      }
+    },
+    {
       "projectID": 536660,
       "fileID": 3777944,
       "required": true,
@@ -885,6 +913,14 @@
         "dependencies": [
           421850
         ]
+      }
+    },
+    {
+      "projectID": 537533,
+      "fileID": 3502166,
+      "required": true,
+      "__meta": {
+        "name": "Ksyxis"
       }
     },
     {
@@ -904,6 +940,14 @@
       "required": true,
       "__meta": {
         "name": "Krypton Reforged"
+      }
+    },
+    {
+      "projectID": 551520,
+      "fileID": 3750013,
+      "required": true,
+      "__meta": {
+        "name": "Better Fps - Render Distance[Forge]"
       }
     },
     {
@@ -944,6 +988,17 @@
         "dependencies": [
           289412,
           419699
+        ]
+      }
+    },
+    {
+      "projectID": 596224,
+      "fileID": 3812301,
+      "required": true,
+      "__meta": {
+        "name": "Debugify",
+        "dependencies": [
+          348521
         ]
       }
     },
