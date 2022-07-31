@@ -186,11 +186,39 @@
       }
     },
     {
+      "projectID": 280510,
+      "fileID": 3801087,
+      "required": true,
+      "__meta": {
+        "name": "AttributeFix"
+      }
+    },
+    {
       "projectID": 282001,
       "fileID": 3904453,
       "required": true,
       "__meta": {
         "name": "CC: Tweaked"
+      }
+    },
+    {
+      "projectID": 283644,
+      "fileID": 3877902,
+      "required": true,
+      "__meta": {
+        "name": "Placebo",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 288885,
+      "fileID": 3717873,
+      "required": true,
+      "__meta": {
+        "name": "FastWorkbench",
+        "dependencies": [
+          283644
+        ]
       }
     },
     {
@@ -240,6 +268,17 @@
       "required": true,
       "__meta": {
         "name": "Additional Structures"
+      }
+    },
+    {
+      "projectID": 299540,
+      "fileID": 3717883,
+      "required": true,
+      "__meta": {
+        "name": "FastFurnace",
+        "dependencies": [
+          283644
+        ]
       }
     },
     {
@@ -747,6 +786,25 @@
       }
     },
     {
+      "projectID": 470193,
+      "fileID": 3833738,
+      "required": true,
+      "__meta": {
+        "name": "Connectivity[Forge/Fabric]"
+      }
+    },
+    {
+      "projectID": 475117,
+      "fileID": 3755834,
+      "required": true,
+      "__meta": {
+        "name": "FastSuite",
+        "dependencies": [
+          283644
+        ]
+      }
+    },
+    {
       "projectID": 480006,
       "fileID": 3777937,
       "required": true,
@@ -924,6 +982,22 @@
         "dependencies": [
           328085
         ]
+      }
+    },
+    {
+      "projectID": 547989,
+      "fileID": 3843193,
+      "required": true,
+      "__meta": {
+        "name": "Bee Fix"
+      }
+    },
+    {
+      "projectID": 548115,
+      "fileID": 3789218,
+      "required": true,
+      "__meta": {
+        "name": "Alternate Current"
       }
     },
     {
