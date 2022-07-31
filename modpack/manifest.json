@@ -69,7 +69,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3888614,
+      "fileID": 3902351,
       "required": true,
       "__meta": {
         "name": "KubeJS",
@@ -81,7 +81,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3885885,
+      "fileID": 3904349,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -111,7 +111,7 @@
     },
     {
       "projectID": 244830,
-      "fileID": 3864196,
+      "fileID": 3905427,
       "required": true,
       "__meta": {
         "name": "Advanced Chimneys",
@@ -139,7 +139,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3886101,
+      "fileID": 3900773,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -187,7 +187,7 @@
     },
     {
       "projectID": 282001,
-      "fileID": 3845705,
+      "fileID": 3904453,
       "required": true,
       "__meta": {
         "name": "CC: Tweaked"
@@ -284,7 +284,7 @@
     },
     {
       "projectID": 309858,
-      "fileID": 3829081,
+      "fileID": 3906364,
       "required": true,
       "__meta": {
         "name": "Forbidden and Arcanus",
@@ -560,7 +560,7 @@
     },
     {
       "projectID": 404465,
-      "fileID": 3822758,
+      "fileID": 3909755,
       "required": true,
       "__meta": {
         "name": "FTB Library (Forge)",
@@ -602,7 +602,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 3878168,
+      "fileID": 3905649,
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
@@ -627,7 +627,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3893735,
+      "fileID": 3909751,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)"
@@ -644,7 +644,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 3887950,
+      "fileID": 3909542,
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks",
@@ -925,7 +925,7 @@
     },
     {
       "projectID": 542235,
-      "fileID": 3906720,
+      "fileID": 3909132,
       "required": true,
       "__meta": {
         "name": "Create Cafe",
@@ -1020,7 +1020,7 @@
     },
     {
       "projectID": 618298,
-      "fileID": 3887917,
+      "fileID": 3909159,
       "required": true,
       "__meta": {
         "name": "Sophisticated Core",
@@ -1059,7 +1059,7 @@
     },
     {
       "projectID": 637529,
-      "fileID": 3876995,
+      "fileID": 3908912,
       "required": true,
       "__meta": {
         "name": "Delightful",
