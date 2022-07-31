@@ -287,6 +287,17 @@
       }
     },
     {
+      "projectID": 312918,
+      "fileID": 3788736,
+      "required": true,
+      "__meta": {
+        "name": "Blue Skies",
+        "dependencies": [
+          378802
+        ]
+      }
+    },
+    {
       "projectID": 314905,
       "fileID": 3802692,
       "required": true,
@@ -328,6 +339,14 @@
         "dependencies": [
           244844
         ]
+      }
+    },
+    {
+      "projectID": 320509,
+      "fileID": 3590403,
+      "required": true,
+      "__meta": {
+        "name": "Redstone Gates"
       }
     },
     {
@@ -379,6 +398,28 @@
       }
     },
     {
+      "projectID": 351052,
+      "fileID": 3723960,
+      "required": true,
+      "__meta": {
+        "name": "Sweet Concrete",
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
+      "projectID": 351060,
+      "fileID": 3723958,
+      "required": true,
+      "__meta": {
+        "name": "Lotta Terracotta",
+        "dependencies": [
+          382216
+        ]
+      }
+    },
+    {
       "projectID": 351264,
       "fileID": 3829616,
       "required": true,
@@ -408,6 +449,17 @@
       "required": true,
       "__meta": {
         "name": "Decorative Blocks"
+      }
+    },
+    {
+      "projectID": 367706,
+      "fileID": 3891585,
+      "required": true,
+      "__meta": {
+        "name": "FancyMenu [Forge]",
+        "dependencies": [
+          410295
+        ]
       }
     },
     {
@@ -446,6 +498,15 @@
       }
     },
     {
+      "projectID": 378802,
+      "fileID": 3861133,
+      "required": true,
+      "__meta": {
+        "name": "Structure Gel API",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 379887,
       "fileID": 3773491,
       "required": true,
@@ -459,6 +520,15 @@
       "required": true,
       "__meta": {
         "name": "Regrowth"
+      }
+    },
+    {
+      "projectID": 382216,
+      "fileID": 3899215,
+      "required": true,
+      "__meta": {
+        "name": "Blueprint",
+        "explicit": false
       }
     },
     {
@@ -520,6 +590,15 @@
       "required": true,
       "__meta": {
         "name": "Custom fences and walls"
+      }
+    },
+    {
+      "projectID": 410295,
+      "fileID": 3888156,
+      "required": true,
+      "__meta": {
+        "name": "Konkrete [Forge]",
+        "explicit": false
       }
     },
     {
@@ -653,6 +732,17 @@
       }
     },
     {
+      "projectID": 466792,
+      "fileID": 3875561,
+      "required": true,
+      "__meta": {
+        "name": "Create Stuff Additions",
+        "dependencies": [
+          328085
+        ]
+      }
+    },
+    {
       "projectID": 480006,
       "fileID": 3777937,
       "required": true,
@@ -696,6 +786,14 @@
       "required": true,
       "__meta": {
         "name": "Iron Chests: Restocked"
+      }
+    },
+    {
+      "projectID": 500434,
+      "fileID": 3687867,
+      "required": true,
+      "__meta": {
+        "name": "Wandering Bag"
       }
     },
     {
@@ -790,6 +888,17 @@
       }
     },
     {
+      "projectID": 542235,
+      "fileID": 3906720,
+      "required": true,
+      "__meta": {
+        "name": "Create Cafe",
+        "dependencies": [
+          328085
+        ]
+      }
+    },
+    {
       "projectID": 549394,
       "fileID": 3819215,
       "required": true,
@@ -856,6 +965,14 @@
       }
     },
     {
+      "projectID": 623265,
+      "fileID": 3801390,
+      "required": true,
+      "__meta": {
+        "name": "Create: Factory"
+      }
+    },
+    {
       "projectID": 631016,
       "fileID": 3895967,
       "required": true,
@@ -908,6 +1025,18 @@
         "dependencies": [
           238086,
           282001
+        ]
+      }
+    },
+    {
+      "projectID": 646668,
+      "fileID": 3899456,
+      "required": true,
+      "__meta": {
+        "name": "Create Big Cannons",
+        "dependencies": [
+          486392,
+          328085
         ]
       }
     }
