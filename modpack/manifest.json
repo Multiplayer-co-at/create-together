@@ -69,7 +69,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3902351,
+      "fileID": 3912694,
       "required": true,
       "__meta": {
         "name": "KubeJS",
@@ -139,7 +139,7 @@
     },
     {
       "projectID": 256717,
-      "fileID": 3900773,
+      "fileID": 3913406,
       "required": true,
       "__meta": {
         "name": "Clumps"
@@ -203,7 +203,7 @@
     },
     {
       "projectID": 283644,
-      "fileID": 3877902,
+      "fileID": 3924015,
       "required": true,
       "__meta": {
         "name": "Placebo",
@@ -212,7 +212,7 @@
     },
     {
       "projectID": 288885,
-      "fileID": 3717873,
+      "fileID": 3929012,
       "required": true,
       "__meta": {
         "name": "FastWorkbench",
@@ -429,7 +429,7 @@
     },
     {
       "projectID": 342584,
-      "fileID": 3879491,
+      "fileID": 3913027,
       "required": true,
       "__meta": {
         "name": "Collective (Forge)",
@@ -468,7 +468,7 @@
     },
     {
       "projectID": 351264,
-      "fileID": 3829616,
+      "fileID": 3925887,
       "required": true,
       "__meta": {
         "name": "Kotlin for Forge"
@@ -560,7 +560,7 @@
     },
     {
       "projectID": 382216,
-      "fileID": 3899215,
+      "fileID": 3923941,
       "required": true,
       "__meta": {
         "name": "Blueprint",
@@ -640,8 +640,19 @@
       }
     },
     {
+      "projectID": 412082,
+      "fileID": 3871187,
+      "required": true,
+      "__meta": {
+        "name": "Supplementaries",
+        "dependencies": [
+          499980
+        ]
+      }
+    },
+    {
       "projectID": 416089,
-      "fileID": 3905649,
+      "fileID": 3927731,
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
@@ -649,7 +660,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3892335,
+      "fileID": 3919350,
       "required": true,
       "__meta": {
         "name": "Rhino"
@@ -666,7 +677,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3909751,
+      "fileID": 3929416,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)"
@@ -683,7 +694,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 3909542,
+      "fileID": 3914048,
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks",
@@ -713,7 +724,7 @@
     },
     {
       "projectID": 429371,
-      "fileID": 3815884,
+      "fileID": 3923657,
       "required": true,
       "__meta": {
         "name": "KubeJS Create",
@@ -851,6 +862,15 @@
       }
     },
     {
+      "projectID": 499980,
+      "fileID": 3842421,
+      "required": true,
+      "__meta": {
+        "name": "Moonlight Lib",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 500434,
       "fileID": 3687867,
       "required": true,
@@ -871,7 +891,7 @@
     },
     {
       "projectID": 509285,
-      "fileID": 3866123,
+      "fileID": 3922607,
       "required": true,
       "__meta": {
         "name": "Create Deco",
@@ -929,7 +949,7 @@
     },
     {
       "projectID": 531761,
-      "fileID": 3830790,
+      "fileID": 3914491,
       "required": true,
       "__meta": {
         "name": "Balm (Forge Edition)"
@@ -967,7 +987,7 @@
     },
     {
       "projectID": 542235,
-      "fileID": 3909132,
+      "fileID": 3927250,
       "required": true,
       "__meta": {
         "name": "Create Cafe",
@@ -1047,7 +1067,7 @@
     },
     {
       "projectID": 580129,
-      "fileID": 3810666,
+      "fileID": 3919400,
       "required": true,
       "__meta": {
         "name": "Quests Additions (Forge)",
@@ -1117,7 +1137,7 @@
     },
     {
       "projectID": 637529,
-      "fileID": 3908912,
+      "fileID": 3913872,
       "required": true,
       "__meta": {
         "name": "Delightful",
@@ -1151,7 +1171,7 @@
     },
     {
       "projectID": 646668,
-      "fileID": 3899456,
+      "fileID": 3911211,
       "required": true,
       "__meta": {
         "name": "Create Big Cannons",
