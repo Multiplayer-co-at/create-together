@@ -52,6 +52,26 @@
       }
     },
     {
+      "projectID": 228525,
+      "fileID": 3916521,
+      "required": true,
+      "__meta": {
+        "name": "Bookshelf",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 230137,
+      "fileID": 3909188,
+      "required": true,
+      "__meta": {
+        "name": "Additional Banners",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
       "projectID": 231095,
       "fileID": 3873584,
       "required": true,
@@ -138,11 +158,31 @@
       }
     },
     {
+      "projectID": 254284,
+      "fileID": 3738299,
+      "required": true,
+      "__meta": {
+        "name": "AmbientSounds 5",
+        "dependencies": [
+          257814
+        ]
+      }
+    },
+    {
       "projectID": 256717,
       "fileID": 3913406,
       "required": true,
       "__meta": {
         "name": "Clumps"
+      }
+    },
+    {
+      "projectID": 257814,
+      "fileID": 3834521,
+      "required": true,
+      "__meta": {
+        "name": "CreativeCore",
+        "explicit": false
       }
     },
     {
@@ -475,6 +515,22 @@
       }
     },
     {
+      "projectID": 354382,
+      "fileID": 3865461,
+      "required": true,
+      "__meta": {
+        "name": "Compact Ores"
+      }
+    },
+    {
+      "projectID": 360203,
+      "fileID": 3823106,
+      "required": true,
+      "__meta": {
+        "name": "Guard Villagers"
+      }
+    },
+    {
       "projectID": 361276,
       "fileID": 3891801,
       "required": true,
@@ -492,7 +548,7 @@
     },
     {
       "projectID": 362528,
-      "fileID": 3697638,
+      "fileID": 3932785,
       "required": true,
       "__meta": {
         "name": "Decorative Blocks"
@@ -579,6 +635,17 @@
       }
     },
     {
+      "projectID": 390986,
+      "fileID": 3555718,
+      "required": true,
+      "__meta": {
+        "name": "Drip Sounds (Forge)",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 392805,
       "fileID": 3826151,
       "required": true,
@@ -637,6 +704,14 @@
       }
     },
     {
+      "projectID": 405076,
+      "fileID": 3932437,
+      "required": true,
+      "__meta": {
+        "name": "Epic Fight"
+      }
+    },
+    {
       "projectID": 410811,
       "fileID": 3773058,
       "required": true,
@@ -659,8 +734,19 @@
       }
     },
     {
+      "projectID": 413431,
+      "fileID": 3669247,
+      "required": true,
+      "__meta": {
+        "name": "Eroding Stone Entities (Forge)",
+        "dependencies": [
+          342584
+        ]
+      }
+    },
+    {
       "projectID": 416089,
-      "fileID": 3927731,
+      "fileID": 3930681,
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
@@ -702,7 +788,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 3914048,
+      "fileID": 3931811,
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks",
@@ -756,6 +842,14 @@
       "required": true,
       "__meta": {
         "name": "Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons"
+      }
+    },
+    {
+      "projectID": 439870,
+      "fileID": 3923999,
+      "required": true,
+      "__meta": {
+        "name": "Customizable Player Models"
       }
     },
     {
@@ -898,6 +992,14 @@
       }
     },
     {
+      "projectID": 508849,
+      "fileID": 3645296,
+      "required": true,
+      "__meta": {
+        "name": "Combat Music"
+      }
+    },
+    {
       "projectID": 509285,
       "fileID": 3922607,
       "required": true,
@@ -948,6 +1050,14 @@
       }
     },
     {
+      "projectID": 521932,
+      "fileID": 3797980,
+      "required": true,
+      "__meta": {
+        "name": "Medieval Music[Forge/Fabric]"
+      }
+    },
+    {
       "projectID": 526854,
       "fileID": 3706539,
       "required": true,
@@ -975,6 +1085,14 @@
       }
     },
     {
+      "projectID": 533748,
+      "fileID": 3930039,
+      "required": true,
+      "__meta": {
+        "name": "Chalk"
+      }
+    },
+    {
       "projectID": 536660,
       "fileID": 3777944,
       "required": true,
@@ -995,7 +1113,7 @@
     },
     {
       "projectID": 542235,
-      "fileID": 3927250,
+      "fileID": 3933653,
       "required": true,
       "__meta": {
         "name": "Create Cafe",
@@ -1037,6 +1155,14 @@
       }
     },
     {
+      "projectID": 557796,
+      "fileID": 3817648,
+      "required": true,
+      "__meta": {
+        "name": "Effective (Forge)"
+      }
+    },
+    {
       "projectID": 558998,
       "fileID": 3736072,
       "required": true,
@@ -1058,11 +1184,27 @@
       }
     },
     {
+      "projectID": 563495,
+      "fileID": 3829638,
+      "required": true,
+      "__meta": {
+        "name": "Immersive FX"
+      }
+    },
+    {
       "projectID": 570017,
       "fileID": 3707226,
       "required": true,
       "__meta": {
         "name": "Radium Reforged"
+      }
+    },
+    {
+      "projectID": 575464,
+      "fileID": 3708852,
+      "required": true,
+      "__meta": {
+        "name": "Buried Barrels"
       }
     },
     {
@@ -1075,6 +1217,25 @@
           289412,
           419699
         ]
+      }
+    },
+    {
+      "projectID": 583345,
+      "fileID": 3886082,
+      "required": true,
+      "__meta": {
+        "name": "Jade Addons (Forge)",
+        "dependencies": [
+          324717
+        ]
+      }
+    },
+    {
+      "projectID": 592449,
+      "fileID": 3815045,
+      "required": true,
+      "__meta": {
+        "name": "Immersive Weathering [FORGE]"
       }
     },
     {
@@ -1098,7 +1259,7 @@
     },
     {
       "projectID": 618298,
-      "fileID": 3909159,
+      "fileID": 3931794,
       "required": true,
       "__meta": {
         "name": "Sophisticated Core",
@@ -1111,6 +1272,17 @@
       "required": true,
       "__meta": {
         "name": "Create: Factory"
+      }
+    },
+    {
+      "projectID": 627994,
+      "fileID": 3806993,
+      "required": true,
+      "__meta": {
+        "name": "Customizable Player Models Simple Voice Chat compat",
+        "dependencies": [
+          416089
+        ]
       }
     },
     {
