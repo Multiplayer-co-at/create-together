@@ -234,26 +234,6 @@
       }
     },
     {
-      "projectID": 283644,
-      "fileID": 3950736,
-      "required": true,
-      "__meta": {
-        "name": "Placebo",
-        "explicit": false
-      }
-    },
-    {
-      "projectID": 288885,
-      "fileID": 3929012,
-      "required": true,
-      "__meta": {
-        "name": "FastWorkbench",
-        "dependencies": [
-          283644
-        ]
-      }
-    },
-    {
       "projectID": 289412,
       "fileID": 3725771,
       "required": true,
@@ -300,17 +280,6 @@
       "required": true,
       "__meta": {
         "name": "Additional Structures"
-      }
-    },
-    {
-      "projectID": 299540,
-      "fileID": 3717883,
-      "required": true,
-      "__meta": {
-        "name": "FastFurnace",
-        "dependencies": [
-          283644
-        ]
       }
     },
     {
@@ -892,17 +861,6 @@
       "required": true,
       "__meta": {
         "name": "Connectivity[Forge/Fabric]"
-      }
-    },
-    {
-      "projectID": 475117,
-      "fileID": 3755834,
-      "required": true,
-      "__meta": {
-        "name": "FastSuite",
-        "dependencies": [
-          283644
-        ]
       }
     },
     {
