@@ -17,7 +17,7 @@
   "files": [
     {
       "projectID": 60028,
-      "fileID": 3844973,
+      "fileID": 3948611,
       "required": true,
       "__meta": {
         "name": "Aquaculture 2"
@@ -53,7 +53,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 3916521,
+      "fileID": 3950959,
       "required": true,
       "__meta": {
         "name": "Bookshelf",
@@ -89,7 +89,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3912694,
+      "fileID": 3946220,
       "required": true,
       "__meta": {
         "name": "KubeJS",
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3904349,
+      "fileID": 3940240,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -131,7 +131,7 @@
     },
     {
       "projectID": 244830,
-      "fileID": 3905427,
+      "fileID": 3951019,
       "required": true,
       "__meta": {
         "name": "Advanced Chimneys",
@@ -142,7 +142,7 @@
     },
     {
       "projectID": 244844,
-      "fileID": 3864189,
+      "fileID": 3951014,
       "required": true,
       "__meta": {
         "name": "ForgeEndertech",
@@ -178,7 +178,7 @@
     },
     {
       "projectID": 257814,
-      "fileID": 3834521,
+      "fileID": 3948720,
       "required": true,
       "__meta": {
         "name": "CreativeCore",
@@ -235,7 +235,7 @@
     },
     {
       "projectID": 283644,
-      "fileID": 3924015,
+      "fileID": 3950736,
       "required": true,
       "__meta": {
         "name": "Placebo",
@@ -354,18 +354,6 @@
       }
     },
     {
-      "projectID": 309858,
-      "fileID": 3906364,
-      "required": true,
-      "__meta": {
-        "name": "Forbidden and Arcanus",
-        "dependencies": [
-          416935,
-          416935
-        ]
-      }
-    },
-    {
       "projectID": 312918,
       "fileID": 3788736,
       "required": true,
@@ -411,7 +399,7 @@
     },
     {
       "projectID": 318833,
-      "fileID": 3881262,
+      "fileID": 3951627,
       "required": true,
       "__meta": {
         "name": "Large Ore Deposits",
@@ -438,7 +426,7 @@
     },
     {
       "projectID": 328085,
-      "fileID": 3872145,
+      "fileID": 3934676,
       "required": true,
       "__meta": {
         "name": "Create",
@@ -469,7 +457,7 @@
     },
     {
       "projectID": 342584,
-      "fileID": 3913027,
+      "fileID": 3952584,
       "required": true,
       "__meta": {
         "name": "Collective (Forge)",
@@ -608,7 +596,7 @@
     },
     {
       "projectID": 381597,
-      "fileID": 3855425,
+      "fileID": 3941670,
       "required": true,
       "__meta": {
         "name": "Regrowth"
@@ -705,7 +693,7 @@
     },
     {
       "projectID": 405076,
-      "fileID": 3932437,
+      "fileID": 3949755,
       "required": true,
       "__meta": {
         "name": "Epic Fight"
@@ -724,7 +712,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3871187,
+      "fileID": 3947959,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -746,7 +734,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 3930681,
+      "fileID": 3951706,
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
@@ -754,7 +742,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3919350,
+      "fileID": 3941209,
       "required": true,
       "__meta": {
         "name": "Rhino"
@@ -846,7 +834,7 @@
     },
     {
       "projectID": 439870,
-      "fileID": 3923999,
+      "fileID": 3941372,
       "required": true,
       "__meta": {
         "name": "Customizable Player Models"
@@ -938,7 +926,7 @@
     },
     {
       "projectID": 486392,
-      "fileID": 3871082,
+      "fileID": 3934664,
       "required": true,
       "__meta": {
         "name": "Flywheel"
@@ -1086,7 +1074,7 @@
     },
     {
       "projectID": 533748,
-      "fileID": 3930039,
+      "fileID": 3946794,
       "required": true,
       "__meta": {
         "name": "Chalk"
@@ -1113,7 +1101,7 @@
     },
     {
       "projectID": 542235,
-      "fileID": 3933653,
+      "fileID": 3950604,
       "required": true,
       "__meta": {
         "name": "Create Cafe",
@@ -1279,7 +1267,7 @@
     },
     {
       "projectID": 631016,
-      "fileID": 3895967,
+      "fileID": 3950598,
       "required": true,
       "__meta": {
         "name": "YUNG's Better Desert Temples (Forge)",
@@ -1301,7 +1289,7 @@
     },
     {
       "projectID": 637529,
-      "fileID": 3913872,
+      "fileID": 3950104,
       "required": true,
       "__meta": {
         "name": "Delightful",
