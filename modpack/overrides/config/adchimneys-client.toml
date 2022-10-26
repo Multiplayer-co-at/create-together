@@ -11,10 +11,9 @@
 	canCollide = true
 	#If true, all emitters will produce smoke even without connected chimneys
 	emitWithoutChimney = true
-	#Use retro smoke particles instead of modern ones
-	retroSmokeParticles = false
-	#Completely disables vanilla cozy smoke particles from a campfire
-	disableVanillaCampfireSmoke = true
-	#Whether or not to colorize smoke particles
+	#Whether to colorize smoke particles or not
 	colorize = true
+	#Use vanilla smoke particles for compatibility with some mods.
+	#Limitations: no wind, no coloring, no collisions
+	useVanillaSmokeParticles = false
 
