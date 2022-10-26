@@ -44,6 +44,14 @@
       }
     },
     {
+      "projectID": 223794,
+      "fileID": 4023502,
+      "required": true,
+      "__meta": {
+        "name": "Applied Energistics 2"
+      }
+    },
+    {
       "projectID": 223852,
       "fileID": 3807626,
       "required": true,
@@ -183,6 +191,36 @@
       "__meta": {
         "name": "CreativeCore",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 268560,
+      "fileID": 3875976,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism"
+      }
+    },
+    {
+      "projectID": 268566,
+      "fileID": 3875978,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism Generators",
+        "dependencies": [
+          268560
+        ]
+      }
+    },
+    {
+      "projectID": 268567,
+      "fileID": 3875979,
+      "required": true,
+      "__meta": {
+        "name": "Mekanism Tools",
+        "dependencies": [
+          268560
+        ]
       }
     },
     {
@@ -727,6 +765,18 @@
       }
     },
     {
+      "projectID": 418651,
+      "fileID": 3787382,
+      "required": true,
+      "__meta": {
+        "name": "KubeJS Mekanism",
+        "dependencies": [
+          238086,
+          268560
+        ]
+      }
+    },
+    {
       "projectID": 419699,
       "fileID": 4040966,
       "required": true,
@@ -782,6 +832,17 @@
         "dependencies": [
           238086,
           328085
+        ]
+      }
+    },
+    {
+      "projectID": 431725,
+      "fileID": 3971494,
+      "required": true,
+      "__meta": {
+        "name": "Advanced Peripherals",
+        "dependencies": [
+          282001
         ]
       }
     },
@@ -1135,6 +1196,18 @@
       "required": true,
       "__meta": {
         "name": "Radium Reforged"
+      }
+    },
+    {
+      "projectID": 574300,
+      "fileID": 3968835,
+      "required": true,
+      "__meta": {
+        "name": "Applied Mekanistics",
+        "dependencies": [
+          223794,
+          268560
+        ]
       }
     },
     {
