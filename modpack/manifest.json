@@ -1290,6 +1290,17 @@
           328085
         ]
       }
+    },
+    {
+      "projectID": 688768,
+      "fileID": 4051406,
+      "required": true,
+      "__meta": {
+        "name": "Create Enchantment Industry",
+        "dependencies": [
+          328085
+        ]
+      }
     }
   ]
 }
