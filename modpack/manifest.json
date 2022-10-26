@@ -25,7 +25,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 3829979,
+      "fileID": 3998764,
       "required": true,
       "__meta": {
         "name": "Tinkers Construct",
@@ -53,7 +53,7 @@
     },
     {
       "projectID": 228525,
-      "fileID": 3950959,
+      "fileID": 3961347,
       "required": true,
       "__meta": {
         "name": "Bookshelf",
@@ -73,7 +73,7 @@
     },
     {
       "projectID": 231095,
-      "fileID": 3873584,
+      "fileID": 3957651,
       "required": true,
       "__meta": {
         "name": "Chisels & Bits - For Forge"
@@ -81,7 +81,7 @@
     },
     {
       "projectID": 233019,
-      "fileID": 3798941,
+      "fileID": 4019126,
       "required": true,
       "__meta": {
         "name": "AI Improvements"
@@ -89,7 +89,7 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3946220,
+      "fileID": 4022967,
       "required": true,
       "__meta": {
         "name": "KubeJS",
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 3940240,
+      "fileID": 4049220,
       "required": true,
       "__meta": {
         "name": "Just Enough Items (JEI)"
@@ -131,7 +131,7 @@
     },
     {
       "projectID": 244830,
-      "fileID": 3951019,
+      "fileID": 3975224,
       "required": true,
       "__meta": {
         "name": "Advanced Chimneys",
@@ -203,7 +203,7 @@
     },
     {
       "projectID": 276951,
-      "fileID": 3682307,
+      "fileID": 4019552,
       "required": true,
       "__meta": {
         "name": "Comforts (Forge)"
@@ -227,7 +227,7 @@
     },
     {
       "projectID": 282001,
-      "fileID": 3904453,
+      "fileID": 4013868,
       "required": true,
       "__meta": {
         "name": "CC: Tweaked"
@@ -268,7 +268,7 @@
     },
     {
       "projectID": 296686,
-      "fileID": 3773568,
+      "fileID": 3968359,
       "required": true,
       "__meta": {
         "name": "Gauges and Switches"
@@ -276,7 +276,7 @@
     },
     {
       "projectID": 297680,
-      "fileID": 3823610,
+      "fileID": 4006021,
       "required": true,
       "__meta": {
         "name": "Additional Structures"
@@ -292,7 +292,7 @@
     },
     {
       "projectID": 303657,
-      "fileID": 3827373,
+      "fileID": 3990351,
       "required": true,
       "__meta": {
         "name": "Kiwi 🥝 (Forge)",
@@ -301,7 +301,7 @@
     },
     {
       "projectID": 308663,
-      "fileID": 3865993,
+      "fileID": 4027493,
       "required": true,
       "__meta": {
         "name": "Snow! Real Magic! ⛄ (Forge)",
@@ -312,7 +312,7 @@
     },
     {
       "projectID": 309674,
-      "fileID": 3875094,
+      "fileID": 3993780,
       "required": true,
       "__meta": {
         "name": "Item Filters",
@@ -347,7 +347,7 @@
     },
     {
       "projectID": 314906,
-      "fileID": 3824539,
+      "fileID": 3983773,
       "required": true,
       "__meta": {
         "name": "FTB Chunks (Forge)",
@@ -387,7 +387,7 @@
     },
     {
       "projectID": 324717,
-      "fileID": 3865918,
+      "fileID": 4035581,
       "required": true,
       "__meta": {
         "name": "Jade 🔍"
@@ -395,7 +395,7 @@
     },
     {
       "projectID": 328085,
-      "fileID": 3934676,
+      "fileID": 4007544,
       "required": true,
       "__meta": {
         "name": "Create",
@@ -426,7 +426,7 @@
     },
     {
       "projectID": 342584,
-      "fileID": 3952584,
+      "fileID": 4035504,
       "required": true,
       "__meta": {
         "name": "Collective (Forge)",
@@ -435,7 +435,7 @@
     },
     {
       "projectID": 348521,
-      "fileID": 3782776,
+      "fileID": 3972426,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)"
@@ -489,7 +489,7 @@
     },
     {
       "projectID": 361276,
-      "fileID": 3891801,
+      "fileID": 3991008,
       "required": true,
       "__meta": {
         "name": "Lootr (Forge)"
@@ -505,7 +505,7 @@
     },
     {
       "projectID": 362528,
-      "fileID": 3932785,
+      "fileID": 3965454,
       "required": true,
       "__meta": {
         "name": "Decorative Blocks"
@@ -532,7 +532,7 @@
     },
     {
       "projectID": 376737,
-      "fileID": 3877945,
+      "fileID": 4040400,
       "required": true,
       "__meta": {
         "name": "Pretty Pipes"
@@ -540,7 +540,7 @@
     },
     {
       "projectID": 378609,
-      "fileID": 3837387,
+      "fileID": 3972854,
       "required": true,
       "__meta": {
         "name": "Tom's Simple Storage Mod"
@@ -548,7 +548,7 @@
     },
     {
       "projectID": 378802,
-      "fileID": 3861133,
+      "fileID": 4018606,
       "required": true,
       "__meta": {
         "name": "Structure Gel API",
@@ -573,7 +573,7 @@
     },
     {
       "projectID": 382216,
-      "fileID": 3923941,
+      "fileID": 3991478,
       "required": true,
       "__meta": {
         "name": "Blueprint",
@@ -612,7 +612,7 @@
     },
     {
       "projectID": 398521,
-      "fileID": 3834150,
+      "fileID": 3999153,
       "required": true,
       "__meta": {
         "name": "Farmer's Delight"
@@ -620,7 +620,7 @@
     },
     {
       "projectID": 401648,
-      "fileID": 3798367,
+      "fileID": 4030561,
       "required": true,
       "__meta": {
         "name": "BetterF3",
@@ -642,7 +642,7 @@
     },
     {
       "projectID": 404468,
-      "fileID": 3725501,
+      "fileID": 3990419,
       "required": true,
       "__meta": {
         "name": "FTB Teams (Forge)",
@@ -662,7 +662,7 @@
     },
     {
       "projectID": 405076,
-      "fileID": 3949755,
+      "fileID": 4018756,
       "required": true,
       "__meta": {
         "name": "Epic Fight"
@@ -681,7 +681,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 3947959,
+      "fileID": 4049235,
       "required": true,
       "__meta": {
         "name": "Supplementaries",
@@ -703,7 +703,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 3951706,
+      "fileID": 4043993,
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
@@ -711,7 +711,7 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3941209,
+      "fileID": 4022965,
       "required": true,
       "__meta": {
         "name": "Rhino"
@@ -728,7 +728,7 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3929416,
+      "fileID": 4040966,
       "required": true,
       "__meta": {
         "name": "Architectury API (Fabric/Forge)"
@@ -736,7 +736,7 @@
     },
     {
       "projectID": 421850,
-      "fileID": 3779088,
+      "fileID": 4034981,
       "required": true,
       "__meta": {
         "name": "YUNG's API (Forge)",
@@ -745,7 +745,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 3956807,
+      "fileID": 4006088,
       "required": true,
       "__meta": {
         "name": "Sophisticated Backpacks",
@@ -803,7 +803,7 @@
     },
     {
       "projectID": 439870,
-      "fileID": 3941372,
+      "fileID": 4024650,
       "required": true,
       "__meta": {
         "name": "Customizable Player Models"
@@ -846,7 +846,7 @@
     },
     {
       "projectID": 466792,
-      "fileID": 3875561,
+      "fileID": 4010704,
       "required": true,
       "__meta": {
         "name": "Create Stuff Additions",
@@ -903,7 +903,7 @@
     },
     {
       "projectID": 498794,
-      "fileID": 3837131,
+      "fileID": 4022308,
       "required": true,
       "__meta": {
         "name": "Iron Chests: Restocked"
@@ -947,7 +947,7 @@
     },
     {
       "projectID": 509285,
-      "fileID": 3956169,
+      "fileID": 4009050,
       "required": true,
       "__meta": {
         "name": "Create Deco",
@@ -1059,7 +1059,7 @@
     },
     {
       "projectID": 542235,
-      "fileID": 3950604,
+      "fileID": 3995985,
       "required": true,
       "__meta": {
         "name": "Create Cafe",
@@ -1102,7 +1102,7 @@
     },
     {
       "projectID": 557796,
-      "fileID": 3817648,
+      "fileID": 4017699,
       "required": true,
       "__meta": {
         "name": "Effective (Forge)"
@@ -1170,7 +1170,7 @@
     },
     {
       "projectID": 592449,
-      "fileID": 3815045,
+      "fileID": 4021620,
       "required": true,
       "__meta": {
         "name": "Immersive Weathering [FORGE]"
@@ -1197,7 +1197,7 @@
     },
     {
       "projectID": 618298,
-      "fileID": 3956758,
+      "fileID": 4048380,
       "required": true,
       "__meta": {
         "name": "Sophisticated Core",
@@ -1214,7 +1214,7 @@
     },
     {
       "projectID": 627994,
-      "fileID": 3806993,
+      "fileID": 3983954,
       "required": true,
       "__meta": {
         "name": "Customizable Player Models Simple Voice Chat compat",
@@ -1247,7 +1247,7 @@
     },
     {
       "projectID": 637529,
-      "fileID": 3950104,
+      "fileID": 3999344,
       "required": true,
       "__meta": {
         "name": "Delightful",
@@ -1281,7 +1281,7 @@
     },
     {
       "projectID": 646668,
-      "fileID": 3911211,
+      "fileID": 4033862,
       "required": true,
       "__meta": {
         "name": "Create Big Cannons",
