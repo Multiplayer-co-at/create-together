@@ -1191,14 +1191,6 @@
       }
     },
     {
-      "projectID": 570017,
-      "fileID": 3707226,
-      "required": true,
-      "__meta": {
-        "name": "Radium Reforged"
-      }
-    },
-    {
       "projectID": 574300,
       "fileID": 3968835,
       "required": true,
@@ -1362,6 +1354,14 @@
           486392,
           328085
         ]
+      }
+    },
+    {
+      "projectID": 665658,
+      "fileID": 4091547,
+      "required": true,
+      "__meta": {
+        "name": "Canary"
       }
     },
     {
